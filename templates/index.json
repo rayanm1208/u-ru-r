@@ -15,40 +15,14 @@
         "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/coore_5.png",
+            "mobile_image": "shopify://shop_images/coore_5.png",
             "image_overlay_opacity": 0,
-            "heading": "LICENSE pour PULSOR AGENCY",
+            "heading": "",
             "title_highlight_color": "#6d388b",
-            "heading_size": "h1",
-            "subheading": "Thème 1.2.2 pro",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "atc_button_label": "",
-            "atc_product": "",
-            "atc_skip_cart": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "color_scheme": "background-1",
-            "transparent_container_color": "white",
-            "text_alignment_mobile": "center",
-            "custom_colors_background": "#ffffff",
-            "custom_gradient_background": "",
-            "custom_colors_text": "#2e2a39",
-            "custom_colors_solid_button_background": "#dd1d1d",
-            "custom_colors_solid_button_text": "#ffffff",
-            "custom_colors_outline_button": "#dd1d1d"
-          }
-        },
-        "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-2": {
-          "type": "slide",
-          "settings": {
-            "image_overlay_opacity": 0,
-            "heading": "LICENSE pour PULSOR AGENCY",
-            "title_highlight_color": "#6d388b",
-            "heading_size": "h1",
-            "subheading": "Thème 1.2.2 pro",
-            "button_label": "Button label",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "atc_button_label": "",
@@ -70,8 +44,7 @@
         }
       },
       "block_order": [
-        "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1",
-        "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-2"
+        "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1"
       ],
       "settings": {
         "visibility": "always-display",
@@ -131,7 +104,7 @@
         "title": "Comparison table",
         "title_highlight_color": "#6d388b",
         "heading_size": "h1",
-        "text": "<p>Talk about how and why is your brand better than the others.<\/p>",
+        "text": "<p>Talk about how and why is your brand better than the others.</p>",
         "button_label": "",
         "link": "",
         "button_style_secondary": false,
@@ -286,21 +259,21 @@
           "type": "row",
           "settings": {
             "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.<\/p>"
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
           }
         },
         "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2": {
           "type": "row",
           "settings": {
             "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.<\/p>"
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
           }
         },
         "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3": {
           "type": "row",
           "settings": {
             "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.<\/p>"
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
           }
         }
       },
@@ -315,7 +288,7 @@
         "title": "Results",
         "title_highlight_color": "#6d388b",
         "heading_size": "h1",
-        "text": "<p>Talk about results of your customers and how your product improved their life.<\/p>",
+        "text": "<p>Talk about results of your customers and how your product improved their life.</p>",
         "video_muted_autoplay": true,
         "color_scheme": "background-1",
         "layout": "results_second",
@@ -324,7 +297,7 @@
         "results_headline_size": "h2",
         "results_text": "",
         "results_headline_alignment": "left",
-        "caption": "<p>Caption about the results and\/or link for their proof.<\/p>",
+        "caption": "<p>Caption about the results and/or link for their proof.</p>",
         "button_label": "",
         "link": "",
         "button_style_secondary": false,
