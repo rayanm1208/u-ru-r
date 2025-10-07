@@ -26,10 +26,10 @@
             "link": "",
             "button_style_secondary": false,
             "atc_button_label": "",
-            "atc_product": "",
+            "atc_product": "coore™-antifungal-pen-25-undecylenic-acid",
             "atc_skip_cart": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "color_scheme": "background-1",
             "transparent_container_color": "white",
@@ -57,6 +57,56 @@
         "show_text_below": true,
         "mobile_pagination_position": "under",
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "horizontal_ticker_inVdWh": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "text_qje7CK": {
+          "type": "text",
+          "settings": {
+            "title": "📦 Free 3-5 Day Shipping"
+          }
+        },
+        "text_3aRfbB": {
+          "type": "text",
+          "settings": {
+            "title": "💲Easy Returns via Help Center"
+          }
+        }
+      },
+      "block_order": [
+        "text_qje7CK",
+        "text_3aRfbB"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "custom",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#212644",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff"
       }
     },
     "d2d3417b-e92f-428c-b221-5bceffb552be": {
@@ -397,6 +447,7 @@
   },
   "order": [
     "cfca4268-6358-426c-98ab-d292aeef11e5",
+    "horizontal_ticker_inVdWh",
     "d2d3417b-e92f-428c-b221-5bceffb552be",
     "6aa09428-a417-429d-9159-a4e8afd49590",
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",

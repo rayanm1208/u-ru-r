@@ -63,9 +63,9 @@
         "mobile_padding_bottom": 12,
         "desktop_padding_top": 16,
         "desktop_padding_bottom": 16,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39"
+        "custom_colors_text": "#2e2a39"
       }
     },
     "fe1c8c67-b84c-4466-a515-70df3134c1c0": {
@@ -74,12 +74,13 @@
         "sections--21450414096679__fe1c8c67-b84c-4466-a515-70df3134c1c0-announcement-1": {
           "type": "announcement",
           "settings": {
-            "text": "ANNOUNCE BAR",
+            "text": "The #1  Antifungal Pen in Europe",
             "text_alignment": "center",
             "mobile_text_size": 16,
-            "desktop_text_size": 20,
+            "desktop_text_size": 17,
             "icon": "storefront",
             "filled_icon": false,
+            "custom_icon": "shopify://shop_images/counter_1_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.svg",
             "mobile_icon_size": 20,
             "desktop_icon_size": 26,
             "desktop_layout": "horizontal",
@@ -94,13 +95,13 @@
         "sections--21450414096679__fe1c8c67-b84c-4466-a515-70df3134c1c0-announcement-1"
       ],
       "settings": {
-        "columns_desktop": 1,
+        "columns_desktop": 0,
         "columns_mobile": 1,
-        "desktop_spacing": 28,
+        "desktop_spacing": 4,
         "mobile_spacing": 16,
         "show_separator": false,
-        "color_scheme": "accent-1",
-        "slider_mobile": true,
+        "color_scheme": "custom",
+        "slider_mobile": false,
         "slider_desktop": false,
         "type": "loop",
         "autoplay": false,
@@ -108,20 +109,20 @@
         "hidden_products": "",
         "enable_specific_display": false,
         "displayed_products": "",
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "custom_colors_background": "#dd1d1d",
+        "padding_top": 8,
+        "padding_bottom": 8,
+        "custom_colors_background": "#212644",
         "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF"
+        "custom_colors_text": "#ffffff"
       }
     },
     "header": {
       "type": "header",
       "settings": {
         "sticky_header_type": "on-scroll-up",
-        "show_line_separator": true,
+        "show_line_separator": false,
         "color_scheme": "background-1",
-        "logo_link": "\/",
+        "logo_link": "/",
         "logo_position": "middle-center",
         "menu": "main-menu",
         "menu_type_desktop": "dropdown",
@@ -137,8 +138,8 @@
         "mobile_logo_position": "center",
         "display_search": true,
         "margin_bottom": 0,
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     }
   },
