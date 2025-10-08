@@ -628,7 +628,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Multicolumn",
+        "title": "",
         "title_highlight_color": "#6D388B",
         "heading_size": "h1",
         "button_label": "",
