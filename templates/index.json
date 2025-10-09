@@ -815,7 +815,7 @@
       "type": "page",
       "name": "t:sections.page.presets.name",
       "settings": {
-        "page": "",
+        "page": "our-story",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "padding_top": 36,
