@@ -464,32 +464,11 @@
             "desc_alignment": "center",
             "desc_color_scheme": "background-2"
           }
-        },
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-3": {
-          "type": "image_slide",
-          "settings": {
-            "image": "shopify://shop_images/I_finally_feel_comfortable_showing_my_feet_again_Megan_L._42_Manchester_UK.png",
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-4": {
-          "type": "image_slide",
-          "settings": {
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
         }
       },
       "block_order": [
         "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-1",
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-2",
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-3",
-        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-4"
+        "template--21507361800487__eba88da5-80ac-47fc-aa75-997cfe7b2e59-image_slide-2"
       ],
       "settings": {
         "display_id": false,
@@ -508,14 +487,14 @@
         "dots_color_scheme": "inverse",
         "desktop_full_page": false,
         "desktop_border_radius": 0,
-        "slides_desktop": 3,
+        "slides_desktop": 2,
         "per_move_desktop": 1,
         "desktop_spacing": 28,
         "desktop_side_padding": 0,
-        "desktop_padding_calc": true,
+        "desktop_padding_calc": false,
         "desktop_adaptive_height": false,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "sides",
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "hidden",
         "mobile_full_page": false,
         "mobile_border_radius": 0,
         "slides_mobile": 2,
@@ -638,20 +617,11 @@
             "text": "<p>Share positive thoughts and feedback from your customer..</p>",
             "author": "<em><strong>Author</strong></em>"
           }
-        },
-        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3": {
-          "type": "column",
-          "settings": {
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
-          }
         }
       },
       "block_order": [
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-1",
-        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-2",
-        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3"
+        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-2"
       ],
       "settings": {
         "display_id": false,
