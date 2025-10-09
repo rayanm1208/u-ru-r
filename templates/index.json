@@ -184,6 +184,188 @@
         "custom_colors_text": "#121212"
       }
     },
+    "rich_text_T7i7jX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WAEQga": {
+          "type": "heading",
+          "settings": {
+            "title": "Foot Care Made Easy in Three Simple Steps",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h1"
+          }
+        },
+        "text_U8zWHd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our targeted formula makes it easy to apply antifungal treatment where it's needed for the effective treatment of athlete's foot. Just brush on the fast-absorbing serum using the precision applicator - no mess, no guesswork. Helps relieve itching, burning, and irritation associated with athlete's foot and ringworm.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WAEQga",
+        "text_U8zWHd"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 0,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "image_slider_mKFAjM": {
+      "type": "image-slider",
+      "blocks": {
+        "image_slide_t3nYHc": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/1.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_ibBaAW": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_i7g8HR": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/3_0615367f-a7ae-4468-97a9-178759f3cd3e.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "image_slide_t3nYHc",
+        "image_slide_ibBaAW",
+        "image_slide_i7g8HR"
+      ],
+      "name": "Image/Video Slider",
+      "settings": {
+        "display_id": false,
+        "visibility": "mobile-hidden",
+        "title": "",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "type": "slide",
+        "drag": "enabled",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 28,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "hidden",
+        "mobile_full_page": false,
+        "mobile_border_radius": 0,
+        "slides_mobile": 2,
+        "per_move_mobile": 1,
+        "mobile_spacing": 12,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "hidden",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
+    "image_slider_LYQYXA": {
+      "type": "image-slider",
+      "blocks": {
+        "image_slide_Y7WC36": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/Black_White_Minimalist_Brand_Fashion_Logo.png",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "image_slide_Y7WC36"
+      ],
+      "name": "Image/Video Slider",
+      "settings": {
+        "display_id": false,
+        "visibility": "desktop-hidden",
+        "title": "",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "type": "slide",
+        "drag": "enabled",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 28,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "hidden",
+        "mobile_full_page": true,
+        "mobile_border_radius": 0,
+        "slides_mobile": 1,
+        "per_move_mobile": 1,
+        "mobile_spacing": 12,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "hidden",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
     "featured_product_FfUkH8": {
       "type": "featured-product",
       "blocks": {
@@ -690,140 +872,19 @@
         "custom_cards_colors_heading": "#222126",
         "custom_cards_colors_text": "#ffffff"
       }
-    },
-    "rich_text_T7i7jX": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_WAEQga": {
-          "type": "heading",
-          "settings": {
-            "title": "Foot Care Made Easy in Three Simple Steps",
-            "title_highlight_color": "#6D388B",
-            "heading_size": "h1"
-          }
-        },
-        "text_U8zWHd": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our targeted formula makes it easy to apply antifungal treatment where it's needed for the effective treatment of athlete's foot. Just brush on the fast-absorbing serum using the precision applicator - no mess, no guesswork. Helps relieve itching, burning, and irritation associated with athlete's foot and ringworm.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_WAEQga",
-        "text_U8zWHd"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "full_width": true,
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 0,
-        "custom_colors_background": "#FFFFFF",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d"
-      }
-    },
-    "image_slider_mKFAjM": {
-      "type": "image-slider",
-      "blocks": {
-        "image_slide_t3nYHc": {
-          "type": "image_slide",
-          "settings": {
-            "image": "shopify://shop_images/1.png",
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "image_slide_ibBaAW": {
-          "type": "image_slide",
-          "settings": {
-            "image": "shopify://shop_images/2.png",
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        },
-        "image_slide_i7g8HR": {
-          "type": "image_slide",
-          "settings": {
-            "image": "shopify://shop_images/3_0615367f-a7ae-4468-97a9-178759f3cd3e.png",
-            "link": "",
-            "description": "",
-            "desc_alignment": "center",
-            "desc_color_scheme": "background-2"
-          }
-        }
-      },
-      "block_order": [
-        "image_slide_t3nYHc",
-        "image_slide_ibBaAW",
-        "image_slide_i7g8HR"
-      ],
-      "name": "Image/Video Slider",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "",
-        "title_highlight_color": "#6D388B",
-        "heading_size": "h1",
-        "color_scheme": "background-1",
-        "type": "slide",
-        "drag": "enabled",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "center_mode": false,
-        "arrows_color_scheme": "inverse",
-        "transparent_arrows": false,
-        "dots_color_scheme": "inverse",
-        "desktop_full_page": false,
-        "desktop_border_radius": 0,
-        "slides_desktop": 3,
-        "per_move_desktop": 1,
-        "desktop_spacing": 28,
-        "desktop_side_padding": 0,
-        "desktop_padding_calc": true,
-        "desktop_adaptive_height": false,
-        "desktop_dots_position": "hidden",
-        "desktop_arrows_position": "hidden",
-        "mobile_full_page": false,
-        "mobile_border_radius": 0,
-        "slides_mobile": 2,
-        "per_move_mobile": 1,
-        "mobile_spacing": 12,
-        "mobile_side_padding": 0,
-        "mobile_padding_calc": false,
-        "mobile_adaptive_height": false,
-        "mobile_dots_position": "hidden",
-        "mobile_arrows_position": "hidden",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "custom_colors_background": "#FFFFFF",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#121212"
-      }
     }
   },
   "order": [
     "cfca4268-6358-426c-98ab-d292aeef11e5",
     "horizontal_ticker_inVdWh",
     "logo_list_PJeAjh",
+    "rich_text_T7i7jX",
+    "image_slider_mKFAjM",
+    "image_slider_LYQYXA",
     "featured_product_FfUkH8",
     "6aa09428-a417-429d-9159-a4e8afd49590",
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
     "contact_form_WHP8G7",
-    "multicolumn_mM9hpG",
-    "rich_text_T7i7jX",
-    "image_slider_mKFAjM"
+    "multicolumn_mM9hpG"
   ]
 }
