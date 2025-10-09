@@ -366,6 +366,147 @@
         "custom_colors_text": "#121212"
       }
     },
+    "rich_text_X6FUct": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3MQa99": {
+          "type": "heading",
+          "settings": {
+            "title": "Confident Steps Start with Trusted Antifungal Care",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3MQa99"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 24,
+        "padding_bottom": 0,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "collapsible_content_c6GLqX": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_EKFRUX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Aloe vera",
+            "icon": "check_box",
+            "filled_icon": false,
+            "custom_icon": "shopify://shop_images/50dc36ae-a8d2-43c6-9b5b-0f76e65f0970.webp",
+            "row_content": "<p>Aloe vera is included to help calm and hydrate the skin during treatment. As a moisturizing inactive ingredient, it helps maintain comfort while the active antifungal works to relieve athlete's foot and ringworm symptoms.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_PTxd4t": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Almond oil",
+            "icon": "check_box",
+            "filled_icon": false,
+            "custom_icon": "shopify://shop_images/4c92008b-0293-48ea-9f08-5f99f56e16d0.webp",
+            "row_content": "<p>is included to help moisturize and soften dry, rough skin around the affected area. It supports skin comfort and helps maintain hydration during antifungal treatment.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_r7tJfa": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Jojoba oil",
+            "icon": "check_box",
+            "filled_icon": false,
+            "custom_icon": "shopify://shop_images/dbc2c4d9-f9f8-4e2a-ac6b-c3196f3c8bde.webp",
+            "row_content": "<p>Jojoba oil is included to help moisturize and soften dry skin around the affacted area. Its emollient properties support skin comfort and help maintain hydration during treatment.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_zqj4iF": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Tea tree oil",
+            "icon": "check_box",
+            "filled_icon": false,
+            "custom_icon": "shopify://shop_images/0d1e8f17-1f72-437b-b7ae-a720a173741a.webp",
+            "row_content": "<p>Tea tree oil is included as a plant-based ingredient known for its refreshing feel and skin-conditioning properties. It helps keep the skin around the affected area clean and comfortable during antifungal treatment.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_KTyc4U": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Manuka oil",
+            "icon": "check_box",
+            "filled_icon": false,
+            "custom_icon": "shopify://shop_images/fd4585a5-3e51-46e2-8ca0-bafabdde7539.webp",
+            "row_content": "<p>Manuka oil is included to help moisturize and condition the skin around affected areas. Its plant-derived properties help maintain skin comfort.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_g4kqyc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Propolis extract",
+            "icon": "check_box",
+            "filled_icon": false,
+            "custom_icon": "shopify://shop_images/95f5277a-33bf-4f69-ac21-dd854494e563.webp",
+            "row_content": "<p>Propolis extract is included as a skin-conditioning ingredient to help keep the area moisturized and comfortable during antifungal treatment. Known for its natural soothing properties, it helps maintain skin hydration and overall comfort.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_EKFRUX",
+        "collapsible_row_PTxd4t",
+        "collapsible_row_r7tJfa",
+        "collapsible_row_zqj4iF",
+        "collapsible_row_KTyc4U",
+        "collapsible_row_g4kqyc"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "Powered by 25% Undecylenic Acid - the maximum strength allowed without a prescription - our formula is proven clinically effective to treat common fungal skin athlete's foot infections. This antifungal active ingredient helps relieve itching, burning, and irritation at the source, so you can step forward with comfort and confidence.",
+        "title": "",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image": "shopify://shop_images/Design_sans_titre_9.png",
+        "video_muted_autoplay": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_first",
+        "row_heading_size": "large",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 4,
+        "padding_bottom": 20,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_contaner_colors_background": "#ffffff",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2e2a39"
+      }
+    },
     "featured_product_FfUkH8": {
       "type": "featured-product",
       "blocks": {
@@ -532,238 +673,6 @@
         "padding_bottom": 36
       }
     },
-    "6aa09428-a417-429d-9159-a4e8afd49590": {
-      "type": "icon-bar",
-      "blocks": {
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-1": {
-          "type": "column",
-          "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
-          }
-        },
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-2": {
-          "type": "column",
-          "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
-          }
-        },
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-3": {
-          "type": "column",
-          "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
-          }
-        },
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4": {
-          "type": "column",
-          "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-1",
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-2",
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-3",
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4"
-      ],
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Icon bar",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "text": "",
-        "color_scheme": "background-1",
-        "icon_layout": "vertical",
-        "icon_size": "medium",
-        "icon_color": "accent-1",
-        "cards_color_scheme": "background-1",
-        "type": "slide",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "arrows_color_scheme": "inverse",
-        "transparent_arrows": true,
-        "dots_color_scheme": "inverse",
-        "desktop_full_page": false,
-        "columns_desktop": 4,
-        "slider_desktop": false,
-        "per_move_desktop": 1,
-        "desktop_spacing": 40,
-        "desktop_side_padding": 0,
-        "desktop_padding_calc": true,
-        "desktop_adaptive_height": false,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "sides",
-        "columns_mobile": "1",
-        "slider_mobile": true,
-        "enable_mobile_preview": false,
-        "mobile_adaptive_height": false,
-        "mobile_dots_position": "under",
-        "mobile_arrows_position": "under",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39",
-        "custom_cards_colors_background": "#f3f3f3",
-        "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#2e2a39"
-      }
-    },
-    "0f1fc9e4-bc4c-4052-9747-62d1f8472caa": {
-      "type": "results",
-      "blocks": {
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-1": {
-          "type": "row",
-          "settings": {
-            "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
-          }
-        },
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2": {
-          "type": "row",
-          "settings": {
-            "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
-          }
-        },
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3": {
-          "type": "row",
-          "settings": {
-            "percentage": 90,
-            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-1",
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-2",
-        "template--21507361505575__0f1fc9e4-bc4c-4052-9747-62d1f8472caa-row-3"
-      ],
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Results",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "text": "<p>Talk about results of your customers and how your product improved their life.</p>",
-        "video_muted_autoplay": true,
-        "color_scheme": "background-1",
-        "layout": "results_second",
-        "results_headline": "Results heading",
-        "results_title_highlight_color": "#6d388b",
-        "results_headline_size": "h2",
-        "results_text": "",
-        "results_headline_alignment": "left",
-        "caption": "<p>Caption about the results and/or link for their proof.</p>",
-        "button_label": "",
-        "link": "",
-        "button_style_secondary": false,
-        "atc_button_label": "",
-        "atc_product": "",
-        "atc_skip_cart": false,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39",
-        "custom_colors_accent": "#dd1d1d",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d"
-      }
-    },
-    "contact_form_WHP8G7": {
-      "type": "contact-form",
-      "blocks": {
-        "field_row_fNxBGi": {
-          "type": "field_row",
-          "settings": {
-            "input_1_enabled": true,
-            "input_1_type": "name",
-            "input_1_required": false,
-            "input_1_error_message": "This field is required",
-            "input_1_custom_name": "Custom input name",
-            "input_2_enabled": true,
-            "input_2_type": "email",
-            "input_2_required": false,
-            "input_2_error_message": "This field is required",
-            "input_2_custom_name": "Custom input name"
-          }
-        },
-        "field_row_f84rat": {
-          "type": "field_row",
-          "settings": {
-            "input_1_enabled": true,
-            "input_1_type": "phone",
-            "input_1_required": false,
-            "input_1_error_message": "This field is required",
-            "input_1_custom_name": "Custom input name",
-            "input_2_enabled": false,
-            "input_2_type": "custom",
-            "input_2_required": false,
-            "input_2_error_message": "This field is required",
-            "input_2_custom_name": "Custom input name"
-          }
-        },
-        "textarea_NbxXax": {
-          "type": "textarea",
-          "settings": {
-            "input_type": "comment",
-            "input_required": false,
-            "input_error_message": "This field is required",
-            "input_custom_name": "Custom name"
-          }
-        }
-      },
-      "block_order": [
-        "field_row_fNxBGi",
-        "field_row_f84rat",
-        "textarea_NbxXax"
-      ],
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Contact form",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "button_full_width": true,
-        "color_scheme": "background-1",
-        "success_icon": "check_circle",
-        "success_icon_filled": false,
-        "success_text_color": "#28c100",
-        "success_bg_color": "#f2ffed",
-        "success_border_radius": 8,
-        "success_border_width": 1,
-        "success_border_color": "#28c100",
-        "errors_icon": "error",
-        "errors_icon_filled": false,
-        "errors_text_color": "#ff0000",
-        "errors_bg_color": "#fff5f5",
-        "errors_border_radius": 8,
-        "errors_border_width": 1,
-        "errors_border_color": "#ff0000",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff"
-      }
-    },
     "multicolumn_mM9hpG": {
       "type": "multicolumn",
       "blocks": {
@@ -873,145 +782,330 @@
         "custom_cards_colors_text": "#ffffff"
       }
     },
-    "rich_text_X6FUct": {
-      "type": "rich-text",
+    "contact_form_WHP8G7": {
+      "type": "contact-form",
       "blocks": {
-        "heading_3MQa99": {
-          "type": "heading",
+        "field_row_fNxBGi": {
+          "type": "field_row",
           "settings": {
-            "title": "Confident Steps Start with Trusted Antifungal Care",
-            "title_highlight_color": "#6D388B",
-            "heading_size": "h1"
+            "input_1_enabled": true,
+            "input_1_type": "name",
+            "input_1_required": false,
+            "input_1_error_message": "This field is required",
+            "input_1_custom_name": "Custom input name",
+            "input_2_enabled": true,
+            "input_2_type": "email",
+            "input_2_required": false,
+            "input_2_error_message": "This field is required",
+            "input_2_custom_name": "Custom input name"
+          }
+        },
+        "field_row_f84rat": {
+          "type": "field_row",
+          "settings": {
+            "input_1_enabled": true,
+            "input_1_type": "phone",
+            "input_1_required": false,
+            "input_1_error_message": "This field is required",
+            "input_1_custom_name": "Custom input name",
+            "input_2_enabled": false,
+            "input_2_type": "custom",
+            "input_2_required": false,
+            "input_2_error_message": "This field is required",
+            "input_2_custom_name": "Custom input name"
+          }
+        },
+        "textarea_NbxXax": {
+          "type": "textarea",
+          "settings": {
+            "input_type": "comment",
+            "input_required": false,
+            "input_error_message": "This field is required",
+            "input_custom_name": "Custom name"
           }
         }
       },
       "block_order": [
-        "heading_3MQa99"
+        "field_row_fNxBGi",
+        "field_row_f84rat",
+        "textarea_NbxXax"
       ],
-      "name": "t:sections.rich-text.presets.name",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "full_width": true,
+        "title": "Contact form",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "button_full_width": true,
         "color_scheme": "background-1",
-        "padding_top": 24,
-        "padding_bottom": 0,
+        "success_icon": "check_circle",
+        "success_icon_filled": false,
+        "success_text_color": "#28c100",
+        "success_bg_color": "#f2ffed",
+        "success_border_radius": 8,
+        "success_border_width": 1,
+        "success_border_color": "#28c100",
+        "errors_icon": "error",
+        "errors_icon_filled": false,
+        "errors_text_color": "#ff0000",
+        "errors_bg_color": "#fff5f5",
+        "errors_border_radius": 8,
+        "errors_border_width": 1,
+        "errors_border_color": "#ff0000",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff"
+      }
+    },
+    "6aa09428-a417-429d-9159-a4e8afd49590": {
+      "type": "icon-bar",
+      "blocks": {
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-1": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
+          }
+        },
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-2": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+          }
+        },
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-3": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+          }
+        },
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-1",
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-2",
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-3",
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Icon bar",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-1",
+        "icon_layout": "vertical",
+        "icon_size": "medium",
+        "icon_color": "accent-1",
+        "cards_color_scheme": "background-1",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 4,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_cards_colors_background": "#f3f3f3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2e2a39"
+      }
+    },
+    "product_features_L8hFRk": {
+      "type": "product-features",
+      "blocks": {
+        "hotspot_3ihbJy": {
+          "type": "hotspot",
+          "settings": {
+            "offset_x": 30,
+            "offset_y": 30,
+            "enable_mobile_position": false,
+            "mobile_offset_x": 30,
+            "mobile_offset_y": 30,
+            "image": "shopify://shop_images/ChatGPT_Image_8_oct._2025_00_14_10.png",
+            "title": "Feature",
+            "text": "<p>Highlight a specifit feature of your product.</p>",
+            "alignment": "center"
+          }
+        },
+        "hotspot_tFC6C3": {
+          "type": "hotspot",
+          "settings": {
+            "offset_x": 40,
+            "offset_y": 70,
+            "enable_mobile_position": false,
+            "mobile_offset_x": 30,
+            "mobile_offset_y": 30,
+            "title": "Feature",
+            "text": "<p>Highlight a specifit feature of your product.</p>",
+            "alignment": "center"
+          }
+        },
+        "hotspot_8YkAaj": {
+          "type": "hotspot",
+          "settings": {
+            "offset_x": 70,
+            "offset_y": 50,
+            "enable_mobile_position": false,
+            "mobile_offset_x": 30,
+            "mobile_offset_y": 30,
+            "title": "Feature",
+            "text": "<p>Highlight a specifit feature of your product.</p>",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "hotspot_3ihbJy",
+        "hotspot_tFC6C3",
+        "hotspot_8YkAaj"
+      ],
+      "name": "Product features",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Product features",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "<p>Use this section to hightlight key features and benefits of your product</p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "hide_content_on_mobile": false,
+        "mobile_content_position": "top",
+        "content_corner_radius": true,
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "image": "shopify://shop_images/3.png",
+        "desktop_image_width": "limited",
+        "image_max_width": 900,
+        "full_page_width": false,
+        "image_corner_radius": false,
+        "hotspot_open_event": "click",
+        "hotspots_color_scheme": "inverse",
+        "display_hotspots_animation": true,
+        "hotspot_content_color_scheme": "background-1",
+        "hotspot_image_size": "full",
+        "contain_hotspot_modal": false,
+        "hotspot_modal_desktop_width": 340,
+        "hotspot_modal_mobile_width": 200,
+        "bullet_points_color": "inverse",
+        "contain_bullet_points": false,
+        "bullet_point_desktop_width": 400,
+        "bullet_point_mobile_width": 60,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "featured_collection_6MAtXH": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Featured collection",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "color_scheme": "background-1",
+        "collection": "",
+        "products_to_show": 4,
+        "stretch_cards": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "cards_color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "badges": "regular",
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "swatches_option_name": "",
+        "swatches_position": "top",
+        "swatches_desktop_size": 36,
+        "swatches_mobile_size": 24,
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
         "custom_colors_background": "#FFFFFF",
         "custom_gradient_background": "",
         "custom_colors_text": "#2E2A39",
         "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d"
-      }
-    },
-    "collapsible_content_c6GLqX": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_EKFRUX": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Aloe vera",
-            "icon": "check_box",
-            "filled_icon": false,
-            "custom_icon": "shopify://shop_images/50dc36ae-a8d2-43c6-9b5b-0f76e65f0970.webp",
-            "row_content": "<p>Aloe vera is included to help calm and hydrate the skin during treatment. As a moisturizing inactive ingredient, it helps maintain comfort while the active antifungal works to relieve athlete's foot and ringworm symptoms.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_PTxd4t": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Almond oil",
-            "icon": "check_box",
-            "filled_icon": false,
-            "custom_icon": "shopify://shop_images/4c92008b-0293-48ea-9f08-5f99f56e16d0.webp",
-            "row_content": "<p>is included to help moisturize and soften dry, rough skin around the affected area. It supports skin comfort and helps maintain hydration during antifungal treatment.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_r7tJfa": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Jojoba oil",
-            "icon": "check_box",
-            "filled_icon": false,
-            "custom_icon": "shopify://shop_images/dbc2c4d9-f9f8-4e2a-ac6b-c3196f3c8bde.webp",
-            "row_content": "<p>Jojoba oil is included to help moisturize and soften dry skin around the affacted area. Its emollient properties support skin comfort and help maintain hydration during treatment.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_zqj4iF": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Tea tree oil",
-            "icon": "check_box",
-            "filled_icon": false,
-            "custom_icon": "shopify://shop_images/0d1e8f17-1f72-437b-b7ae-a720a173741a.webp",
-            "row_content": "<p>Tea tree oil is included as a plant-based ingredient known for its refreshing feel and skin-conditioning properties. It helps keep the skin around the affected area clean and comfortable during antifungal treatment.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_KTyc4U": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Manuka oil",
-            "icon": "check_box",
-            "filled_icon": false,
-            "custom_icon": "shopify://shop_images/fd4585a5-3e51-46e2-8ca0-bafabdde7539.webp",
-            "row_content": "<p>Manuka oil is included to help moisturize and condition the skin around affected areas. Its plant-derived properties help maintain skin comfort.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_g4kqyc": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Propolis extract",
-            "icon": "check_box",
-            "filled_icon": false,
-            "custom_icon": "shopify://shop_images/95f5277a-33bf-4f69-ac21-dd854494e563.webp",
-            "row_content": "<p>Propolis extract is included as a skin-conditioning ingredient to help keep the area moisturized and comfortable during antifungal treatment. Known for its natural soothing properties, it helps maintain skin hydration and overall comfort.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_EKFRUX",
-        "collapsible_row_PTxd4t",
-        "collapsible_row_r7tJfa",
-        "collapsible_row_zqj4iF",
-        "collapsible_row_KTyc4U",
-        "collapsible_row_g4kqyc"
-      ],
-      "name": "t:sections.collapsible_content.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "caption": "Powered by 25% Undecylenic Acid - the maximum strength allowed without a prescription - our formula is proven clinically effective to treat common fungal skin athlete's foot infections. This antifungal active ingredient helps relieve itching, burning, and irritation at the source, so you can step forward with comfort and confidence.",
-        "title": "",
-        "title_highlight_color": "#6D388B",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
-        "image": "shopify://shop_images/Design_sans_titre_9.png",
-        "video_muted_autoplay": true,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_first",
-        "row_heading_size": "large",
-        "collapse_icon": "carret",
-        "display_top_border": true,
-        "padding_top": 4,
-        "padding_bottom": 20,
-        "custom_colors_background": "#FFFFFF",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_contaner_colors_background": "#FFFFFF",
-        "custom_container_gradient_background": "",
-        "custom_contaner_colors_text": "#2E2A39"
+        "custom_colors_solid_button_text": "#ffffff"
       }
     }
   },
@@ -1025,9 +1119,10 @@
     "rich_text_X6FUct",
     "collapsible_content_c6GLqX",
     "featured_product_FfUkH8",
-    "6aa09428-a417-429d-9159-a4e8afd49590",
-    "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
+    "multicolumn_mM9hpG",
     "contact_form_WHP8G7",
-    "multicolumn_mM9hpG"
+    "6aa09428-a417-429d-9159-a4e8afd49590",
+    "product_features_L8hFRk",
+    "featured_collection_6MAtXH"
   ]
 }
