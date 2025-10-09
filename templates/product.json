@@ -29,7 +29,7 @@
             "star_color": "#ffcc00",
             "bg_stars_style": "full",
             "bg_star_color": "#ececec",
-            "label": "(xxxx Reviews)",
+            "label": "(1647 Reviews)",
             "size": 16,
             "alignment": "flex-start",
             "scroll_id": "",
@@ -149,20 +149,20 @@
             "option_3_price_text": "[price]",
             "option_3_compare_price": "compare_price",
             "option_3_compare_price_text": "[compare_price]",
-            "option_4_quantity": 4,
+            "option_4_quantity": 0,
             "option_4_badge": "",
             "option_4_badge_style": "1",
             "option_4_badge_color": "accent-1",
-            "option_4_label": "Buy [quantity]",
+            "option_4_label": "",
             "option_4_benefit": "",
             "option_4_benefit_style": "outlined",
             "option_4_benefit_color": "accent-1",
-            "option_4_caption": "You save [amount_saved]",
-            "option_4_percentage_off_text": "0",
-            "option_4_fixed_amount_off": "0",
-            "option_4_price_text": "[price]",
+            "option_4_caption": "",
+            "option_4_percentage_off_text": "",
+            "option_4_fixed_amount_off": "",
+            "option_4_price_text": "",
             "option_4_compare_price": "compare_price",
-            "option_4_compare_price_text": "[compare_price]",
+            "option_4_compare_price_text": "",
             "margin_top": 15,
             "margin_bottom": 15
           }
@@ -303,6 +303,38 @@
             "margin_top": 24,
             "margin_bottom": 0
           }
+        },
+        "collapsible_tab_K9KYaf": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_qGxgEX": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "heading_size": "medium",
+            "icon": "check_box",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
         }
       },
       "block_order": [
@@ -316,7 +348,9 @@
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "description",
         "reviews_8UgFbe",
-        "de158e68-5d0d-4819-a625-e2dabdff87d1"
+        "de158e68-5d0d-4819-a625-e2dabdff87d1",
+        "collapsible_tab_K9KYaf",
+        "collapsible_tab_qGxgEX"
       ],
       "custom_css": [],
       "settings": {
