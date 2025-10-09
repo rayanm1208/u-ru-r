@@ -873,6 +873,39 @@
         "custom_cards_colors_text": "#ffffff"
       }
     },
+    "rich_text_X6FUct": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3MQa99": {
+          "type": "heading",
+          "settings": {
+            "title": "Confident Steps Start with Trusted Antifungal Care",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3MQa99"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 24,
+        "padding_bottom": 0,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "collapsible_content_c6GLqX": {
       "type": "collapsible-content",
       "blocks": {
@@ -927,8 +960,8 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "caption": "",
-        "title": "Collapsible content",
+        "caption": "Powered by 25% Undecylenic Acid - the maximum strength allowed without a prescription - our formula is proven clinically effective to treat common fungal skin athlete's foot infections. This antifungal active ingredient helps relieve itching, burning, and irritation at the source, so you can step forward with comfort and confidence.",
+        "title": "",
         "title_highlight_color": "#6D388B",
         "heading_size": "h1",
         "heading_alignment": "center",
@@ -936,14 +969,14 @@
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
         "open_first_collapsible_row": false,
-        "image": "shopify://shop_images/Design_sans_titre_8.png",
+        "image": "shopify://shop_images/Design_sans_titre_9.png",
         "video_muted_autoplay": true,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "row_heading_size": "medium",
         "collapse_icon": "carret",
         "display_top_border": true,
-        "padding_top": 36,
+        "padding_top": 4,
         "padding_bottom": 36,
         "custom_colors_background": "#FFFFFF",
         "custom_gradient_background": "",
@@ -966,6 +999,7 @@
     "0f1fc9e4-bc4c-4052-9747-62d1f8472caa",
     "contact_form_WHP8G7",
     "multicolumn_mM9hpG",
+    "rich_text_X6FUct",
     "collapsible_content_c6GLqX"
   ]
 }
