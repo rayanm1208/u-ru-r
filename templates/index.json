@@ -670,88 +670,18 @@
         "custom_cards_colors_text": "#ffffff"
       }
     },
-    "contact_form_WHP8G7": {
-      "type": "contact-form",
-      "blocks": {
-        "field_row_fNxBGi": {
-          "type": "field_row",
-          "settings": {
-            "input_1_enabled": true,
-            "input_1_type": "name",
-            "input_1_required": false,
-            "input_1_error_message": "This field is required",
-            "input_1_custom_name": "Custom input name",
-            "input_2_enabled": true,
-            "input_2_type": "email",
-            "input_2_required": false,
-            "input_2_error_message": "This field is required",
-            "input_2_custom_name": "Custom input name"
-          }
-        },
-        "field_row_f84rat": {
-          "type": "field_row",
-          "settings": {
-            "input_1_enabled": true,
-            "input_1_type": "phone",
-            "input_1_required": false,
-            "input_1_error_message": "This field is required",
-            "input_1_custom_name": "Custom input name",
-            "input_2_enabled": false,
-            "input_2_type": "custom",
-            "input_2_required": false,
-            "input_2_error_message": "This field is required",
-            "input_2_custom_name": "Custom input name"
-          }
-        },
-        "textarea_NbxXax": {
-          "type": "textarea",
-          "settings": {
-            "input_type": "comment",
-            "input_required": false,
-            "input_error_message": "This field is required",
-            "input_custom_name": "Custom name"
-          }
-        }
-      },
-      "block_order": [
-        "field_row_fNxBGi",
-        "field_row_f84rat",
-        "textarea_NbxXax"
-      ],
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "title": "Contact form",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "button_full_width": true,
-        "color_scheme": "background-1",
-        "success_icon": "check_circle",
-        "success_icon_filled": false,
-        "success_text_color": "#28c100",
-        "success_bg_color": "#f2ffed",
-        "success_border_radius": 8,
-        "success_border_width": 1,
-        "success_border_color": "#28c100",
-        "errors_icon": "error",
-        "errors_icon_filled": false,
-        "errors_text_color": "#ff0000",
-        "errors_bg_color": "#fff5f5",
-        "errors_border_radius": 8,
-        "errors_border_width": 1,
-        "errors_border_color": "#ff0000",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2e2a39",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff"
-      }
-    },
     "6aa09428-a417-429d-9159-a4e8afd49590": {
       "type": "icon-bar",
       "blocks": {
+        "column_3F4NU6": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+          }
+        },
         "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-1": {
           "type": "column",
           "settings": {
@@ -778,27 +708,18 @@
             "title": "Icon",
             "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
           }
-        },
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4": {
-          "type": "column",
-          "settings": {
-            "icon": "check_circle",
-            "filled_icon": false,
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
-          }
         }
       },
       "block_order": [
+        "column_3F4NU6",
         "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-1",
         "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-2",
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-3",
-        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-4"
+        "template--21507361505575__6aa09428-a417-429d-9159-a4e8afd49590-column-3"
       ],
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Icon bar",
+        "title": "",
         "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "text": "",
@@ -838,6 +759,57 @@
         "custom_cards_gradient_background": "",
         "custom_cards_colors_text": "#2e2a39"
       }
+    },
+    "slideshow_y3LCwn": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_CFpXiC": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/df386733-1faa-4d90-a09e-cb2a3c62ff66_1.avif",
+            "mobile_image": "shopify://shop_images/df386733-1faa-4d90-a09e-cb2a3c62ff66_1.avif",
+            "image_overlay_opacity": 0,
+            "heading": "Free Your Feet",
+            "title_highlight_color": "#212644",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Learn more",
+            "link": "",
+            "button_style_secondary": false,
+            "atc_button_label": "",
+            "atc_product": "",
+            "atc_skip_cart": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "color_scheme": "background-1",
+            "transparent_container_color": "white",
+            "text_alignment_mobile": "center",
+            "custom_colors_background": "#FFFFFF",
+            "custom_gradient_background": "",
+            "custom_colors_text": "#2E2A39",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
+        }
+      },
+      "block_order": [
+        "slide_CFpXiC"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "visibility": "always-display",
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "desktop_pagination_position": "over",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "mobile_pagination_position": "under",
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -851,7 +823,7 @@
     "collapsible_content_c6GLqX",
     "featured_collection_6MAtXH",
     "trustpilot_reviews_CRjWkG",
-    "contact_form_WHP8G7",
+    "slideshow_y3LCwn",
     "6aa09428-a417-429d-9159-a4e8afd49590"
   ]
 }

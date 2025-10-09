@@ -17,11 +17,12 @@
         "fc645871-d789-4cfa-8584-4f8a29b6ce92": {
           "type": "image",
           "settings": {
-            "image_width": 100,
-            "alignment": "center",
+            "image": "shopify://shop_images/4_2cfd3a92-00a1-408c-8422-5e3f05039d98.png",
+            "image_width": 245,
+            "alignment": "",
             "url": "",
             "width_desktop": 4,
-            "width_mobile": "2"
+            "width_mobile": "1"
           }
         },
         "1c647602-cc00-4009-a058-976435c8ee9e": {
@@ -54,13 +55,13 @@
       "settings": {
         "color_scheme": "custom",
         "enable_follow_on_shop": false,
-        "show_social": false,
-        "enable_country_selector": false,
+        "show_social": true,
+        "enable_country_selector": true,
         "enable_language_selector": true,
         "payment_enable": true,
         "enabled_payment_types": "",
-        "show_policy": false,
-        "branding_text": "Powered by <a href=\"https://shrinetheme.com/\" target=\"_blank\" title=\"Shrine theme\">Shrine</a>",
+        "show_policy": true,
+        "branding_text": "",
         "margin_top": 0,
         "padding_top": 32,
         "padding_bottom": 20,
