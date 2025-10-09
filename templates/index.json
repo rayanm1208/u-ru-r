@@ -643,7 +643,7 @@
         "autoplay": false,
         "autoplay_speed": 5,
         "arrows_color_scheme": "inverse",
-        "transparent_arrows": true,
+        "transparent_arrows": false,
         "dots_color_scheme": "inverse",
         "desktop_full_page": false,
         "columns_desktop": 3,
@@ -653,13 +653,13 @@
         "desktop_side_padding": 0,
         "desktop_padding_calc": true,
         "desktop_adaptive_height": false,
-        "desktop_dots_position": "under",
-        "desktop_arrows_position": "sides",
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "hidden",
         "slider_mobile": true,
         "enable_mobile_preview": true,
         "mobile_adaptive_height": false,
         "mobile_dots_position": "hidden",
-        "mobile_arrows_position": "under",
+        "mobile_arrows_position": "hidden",
         "padding_top": 36,
         "padding_bottom": 36,
         "custom_colors_background": "#FFFFFF",
@@ -670,55 +670,49 @@
         "custom_cards_colors_text": "#ffffff"
       }
     },
-    "slideshow_y3LCwn": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_CFpXiC": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/df386733-1faa-4d90-a09e-cb2a3c62ff66_1.avif",
-            "mobile_image": "shopify://shop_images/df386733-1faa-4d90-a09e-cb2a3c62ff66_1.avif",
-            "image_overlay_opacity": 0,
-            "heading": "Free Your Feet",
-            "title_highlight_color": "#212644",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Learn more",
-            "link": "",
-            "button_style_secondary": false,
-            "atc_button_label": "",
-            "atc_product": "",
-            "atc_skip_cart": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "color_scheme": "background-1",
-            "transparent_container_color": "white",
-            "text_alignment_mobile": "center",
-            "custom_colors_background": "#FFFFFF",
-            "custom_gradient_background": "",
-            "custom_colors_text": "#2E2A39",
-            "custom_colors_solid_button_background": "#dd1d1d",
-            "custom_colors_solid_button_text": "#ffffff",
-            "custom_colors_outline_button": "#dd1d1d"
-          }
-        }
-      },
-      "block_order": [
-        "slide_CFpXiC"
-      ],
-      "name": "t:sections.slideshow.presets.name",
+    "image_banner_mHjbxQ": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "visibility": "always-display",
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "dots",
-        "desktop_pagination_position": "over",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": true,
-        "mobile_pagination_position": "under",
-        "accessibility_info": "Slideshow about our brand"
+        "display_id": false,
+        "visibility": "mobile-hidden",
+        "image": "shopify://shop_images/Dark_Blue_Simple_Dark_Tech_and_Gaming_Bio-Link_Website.png",
+        "image_1_visibility": "always-display",
+        "image_2_visibility": "always-display",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "url": "shopify://pages/our-story",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "transparent_container_color": "white",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_DdLJqD": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "desktop-hidden",
+        "image": "shopify://shop_images/Design_sans_titre_12.png",
+        "image_1_visibility": "always-display",
+        "image_2": "shopify://shop_images/df386733-1faa-4d90-a09e-cb2a3c62ff66_1.avif",
+        "image_2_visibility": "always-display",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "url": "shopify://pages/our-story",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "transparent_container_color": "white",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "6aa09428-a417-429d-9159-a4e8afd49590": {
@@ -810,28 +804,6 @@
         "custom_cards_gradient_background": "",
         "custom_cards_colors_text": "#2e2a39"
       }
-    },
-    "image_banner_mHjbxQ": {
-      "type": "image-banner",
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "image": "shopify://shop_images/Dark_Blue_Simple_Dark_Tech_and_Gaming_Bio-Link_Website.png",
-        "image_1_visibility": "always-display",
-        "image_2_visibility": "always-display",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "url": "shopify://pages/our-story",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "transparent_container_color": "white",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
@@ -845,8 +817,8 @@
     "collapsible_content_c6GLqX",
     "featured_collection_6MAtXH",
     "trustpilot_reviews_CRjWkG",
-    "slideshow_y3LCwn",
-    "6aa09428-a417-429d-9159-a4e8afd49590",
-    "image_banner_mHjbxQ"
+    "image_banner_mHjbxQ",
+    "image_banner_DdLJqD",
+    "6aa09428-a417-429d-9159-a4e8afd49590"
   ]
 }
