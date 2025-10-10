@@ -684,15 +684,51 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "comparison_slider_CQKPrq": {
+      "type": "comparison-slider",
+      "name": "Before & After slider",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Before & After slider",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "<p>Highlight key differences between before and after using your product.</p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "color_scheme": "background-1",
+        "layout": "slider_second",
+        "before_label": "",
+        "after_label": "",
+        "labels_color_scheme": "accent-1",
+        "line_color": "background-1",
+        "arrows_style": "circle",
+        "before_image": "shopify://shop_images/ChatGPT_Image_8_oct._2025_00_25_21.png",
+        "after_image": "shopify://shop_images/ChatGPT_Image_8_oct._2025_00_25_21.png",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
     }
   },
   "order": [
     "main",
     "related-products",
+    "b321ab88-2b59-4dba-bade-54885c874ca5",
     "image_banner_Mt8b9E",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
-    "b321ab88-2b59-4dba-bade-54885c874ca5"
+    "comparison_slider_CQKPrq"
   ]
 }
