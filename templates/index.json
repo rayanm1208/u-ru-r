@@ -16,7 +16,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/coore_5.png",
-            "mobile_image": "shopify://shop_images/coore_5.png",
+            "mobile_image": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_8.png",
             "image_overlay_opacity": 0,
             "heading": "",
             "title_highlight_color": "#6d388b",
@@ -49,12 +49,12 @@
       "settings": {
         "visibility": "always-display",
         "layout": "full_bleed",
-        "slide_height": "medium",
+        "slide_height": "adapt_image",
         "slider_visual": "dots",
         "desktop_pagination_position": "over",
         "auto_rotate": false,
         "change_slides_speed": 5,
-        "show_text_below": true,
+        "show_text_below": false,
         "mobile_pagination_position": "under",
         "accessibility_info": "Slideshow about our brand"
       }
