@@ -419,21 +419,6 @@
         "padding_bottom": 24
       }
     },
-    "b321ab88-2b59-4dba-bade-54885c874ca5": {
-      "type": "section-divider",
-      "settings": {
-        "visibility": "always-display",
-        "shape": "waves_3",
-        "flip_horizontal": false,
-        "flip_vertical": false,
-        "shape_color": "accent-1",
-        "custom_shape_color": "#dd1d1d",
-        "background_color": "background-1",
-        "custom_background_color": "#ffffff",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59": {
       "type": "image-slider",
       "blocks": {
@@ -512,7 +497,7 @@
         "visibility": "always-display",
         "image": "shopify://shop_images/Dark_Blue_Simple_Dark_Tech_and_Gaming_Bio-Link_Website_4.png",
         "image_1_visibility": "mobile-hidden",
-        "image_2": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_3.png",
+        "image_2": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_5.png",
         "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
@@ -668,7 +653,7 @@
         "mobile_adaptive_height": false,
         "mobile_dots_position": "hidden",
         "mobile_arrows_position": "sides",
-        "padding_top": 24,
+        "padding_top": 4,
         "padding_bottom": 16,
         "custom_colors_background": "#FFFFFF",
         "custom_gradient_background": "",
@@ -679,7 +664,6 @@
   "order": [
     "main",
     "related-products",
-    "b321ab88-2b59-4dba-bade-54885c874ca5",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "image_banner_7hnRyj",
     "image_banner_yRG4ce",
