@@ -434,29 +434,6 @@
         "padding_bottom": 0
       }
     },
-    "image_banner_Mt8b9E": {
-      "type": "image-banner",
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "image": "shopify://shop_images/Dark_Blue_Simple_Dark_Tech_and_Gaming_Bio-Link_Website_3.png",
-        "image_1_visibility": "mobile-hidden",
-        "image_2": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram.png",
-        "image_2_visibility": "desktop-hidden",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "url": "",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "transparent_container_color": "white",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59": {
       "type": "image-slider",
       "blocks": {
@@ -556,9 +533,10 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_4.png",
-        "image_1_visibility": "always-display",
-        "image_2_visibility": "always-display",
+        "image": "shopify://shop_images/Dark_Blue_Simple_Dark_Tech_and_Gaming_Bio-Link_Website_5.png",
+        "image_1_visibility": "mobile-hidden",
+        "image_2": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_4.png",
+        "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "url": "",
@@ -690,7 +668,7 @@
         "mobile_adaptive_height": false,
         "mobile_dots_position": "hidden",
         "mobile_arrows_position": "sides",
-        "padding_top": 0,
+        "padding_top": 24,
         "padding_bottom": 16,
         "custom_colors_background": "#FFFFFF",
         "custom_gradient_background": "",
@@ -702,7 +680,6 @@
     "main",
     "related-products",
     "b321ab88-2b59-4dba-bade-54885c874ca5",
-    "image_banner_Mt8b9E",
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "image_banner_7hnRyj",
     "image_banner_yRG4ce",
