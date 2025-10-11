@@ -178,7 +178,7 @@
             "display_price": false,
             "enable_custom_color": false,
             "custom_color": "#53af01",
-            "enable_secondary_btn": false,
+            "enable_secondary_btn": true,
             "secondary_btn_label": "Buy It Now",
             "secondary_btn_enable_custom_color": false,
             "secondary_btn_custom_color": "#dd1d1d",
@@ -251,6 +251,14 @@
             "mobile_transparent_bg": false
           }
         },
+        "payment_badges_ndcJK3": {
+          "type": "payment_badges",
+          "settings": {
+            "enabled_payment_types": "stripe, american_express, apple_pay, visa, paypal, google_pay, discover, amazon, bitcoin, shopify_pay, klarna, master,",
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -258,47 +266,17 @@
             "margin_bottom": 24
           }
         },
-        "reviews_8UgFbe": {
-          "type": "reviews",
-          "settings": {
-            "color_scheme": "background-1",
-            "show_custom_bg": false,
-            "custom_bg_color": "#f2f2f2",
-            "corner_radius": 12,
-            "border_width": 0,
-            "border_color": "#b7b7b7",
-            "avatar_alignment": "top",
-            "avatar_corner_radius": 40,
-            "star_color": "#ffcc00",
-            "stars_translate": 0,
-            "checkmark_color": "#6d388b",
-            "checkmark_icon_color": "#ffffff",
-            "slider_type": "slide",
-            "autoplay": false,
-            "autoplay_speed": 5,
-            "display_arrows": false,
-            "display_dots": false,
-            "author_1": "<em>Author</em> [stars]",
-            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "author_2": "<em>Author</em> [stars]",
-            "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "author_3": "<em>Author</em> [stars]",
-            "text_3": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "margin_top": 24,
-            "margin_bottom": 24
-          }
-        },
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Details",
             "heading_size": "medium",
-            "icon": "check_box",
+            "icon": "info",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<p>Formulated with 25% Undecylenic acid, our Antifungal Pen is designed to treat and relieve symptoms of athlete's foot, ringworm, and jock itch. This targeted treatment helps relieve itching, burning, and irritation - no perscription required.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -307,14 +285,14 @@
         "collapsible_tab_K9KYaf": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Shipping and returns",
             "heading_size": "medium",
-            "icon": "check_box",
+            "icon": "local_shipping",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<p>Once an order is placed, it takes about 48 hours to process. Delivery time depends on the shipping option chosen at checkout.</p><p>Standard shipping via USPS takes 3-5 business days, while expedited shipping through FedEx or UPS delivers in 1-2 business days. Sundays and holidays are excluded from delivery estimates. For more details, please refer to our <a href=\"https://mylunavia.com/pages/shipping-information\" target=\"_blank\"><span style=\"text-decoration:underline\"><strong>shipping page</strong></span></a>.<br/></p><p>We also offer a 90-day money-back guarantee. If you're not completely satisfied, you can request a full refund within 90 days of your order date. For more information, visit our <a href=\"https://mylunavia.com/pages/return-and-refund-policy\" target=\"_blank\"><span style=\"text-decoration:underline\"><strong>returns page</strong></span></a>.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
@@ -323,17 +301,23 @@
         "collapsible_tab_qGxgEX": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "24/7 Customer Support",
             "heading_size": "medium",
-            "icon": "check_box",
+            "icon": "contact_support",
             "filled_icon": false,
             "collapse_icon": "carret",
             "display_top_border": true,
             "open": false,
-            "content": "",
+            "content": "<p>If you have any issues with your lunavia™ products or order, contact us by phone or email and we'll make sure you're left satisfied.<br/><br/>Our email and phone number can be found in the footer of this website.</p>",
             "page": "",
             "margin_top": 24,
             "margin_bottom": 0
+          }
+        },
+        "custom_liquid_DiTDaX": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"secure-payment-wrapper\">\n  <h3 class=\"payment-title\">SECURE PAYMENT</h3>\n  <ul class=\"payment-icons\">\n    <li>\n      <img src=\"{{ 'visa.svg' | asset_url }}\" alt=\"Visa\" loading=\"lazy\" />\n    </li>\n    <li>\n      <img src=\"{{ 'mastercard.svg' | asset_url }}\" alt=\"Mastercard\" loading=\"lazy\" />\n    </li>\n    <li>\n      <img src=\"{{ 'paypal.svg' | asset_url }}\" alt=\"PayPal\" loading=\"lazy\" />\n    </li>\n    <li>\n      <img src=\"{{ 'amex.svg' | asset_url }}\" alt=\"American Express\" loading=\"lazy\" />\n    </li>\n    <li>\n      <img src=\"{{ 'applepay.svg' | asset_url }}\" alt=\"Apple Pay\" loading=\"lazy\" />\n    </li>\n  </ul>\n  <p class=\"payment-desc\">100% secure and protected payments</p>\n</div>\n\n<style>\n  .secure-payment-wrapper {\n    padding: 40px 20px;\n    text-align: center;\n    background-color: #ffffff;\n    color: #212644;\n    font-family: 'Inria Serif', serif;\n  }\n\n  .secure-payment-wrapper .payment-title {\n    font-size: 1.5rem;\n    margin-bottom: 20px;\n    letter-spacing: 1px;\n    text-transform: uppercase;\n  }\n\n  .payment-icons {\n    display: flex;\n    justify-content: center;\n    gap: 20px;\n    flex-wrap: wrap;\n    list-style: none;\n    padding: 0;\n    margin: 0 0 20px;\n  }\n\n  .payment-icons li img {\n    height: 40px;\n    width: auto;\n    max-width: 100px;\n  }\n\n  .payment-desc {\n    font-size: 0.9rem;\n    color: #555;\n    font-style: italic;\n  }\n</style>"
           }
         }
       },
@@ -346,11 +330,12 @@
         "buy_buttons",
         "e0a0b690-50df-4ca4-acfd-ce2980696cce",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
+        "payment_badges_ndcJK3",
         "description",
-        "reviews_8UgFbe",
         "de158e68-5d0d-4819-a625-e2dabdff87d1",
         "collapsible_tab_K9KYaf",
-        "collapsible_tab_qGxgEX"
+        "collapsible_tab_qGxgEX",
+        "custom_liquid_DiTDaX"
       ],
       "custom_css": [],
       "settings": {
