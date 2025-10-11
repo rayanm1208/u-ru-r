@@ -22,19 +22,19 @@
             "margin_bottom": 0
           }
         },
-        "a6eb81db-40e4-43e0-972f-32db010a4a56": {
-          "type": "rating_stars",
+        "trustpilot_stars_rqQYfJ": {
+          "type": "trustpilot_stars",
           "settings": {
-            "rating": 4.4,
-            "star_color": "#ffcc00",
-            "bg_stars_style": "full",
-            "bg_star_color": "#ececec",
-            "label": "(1647 Reviews)",
-            "size": 16,
+            "rating": 4.7,
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "label": "1648 Reviews",
+            "size": 14,
             "alignment": "flex-start",
             "scroll_id": "",
-            "margin_top": 0,
-            "margin_bottom": 9
+            "margin_top": 15,
+            "margin_bottom": 15
           }
         },
         "price": {
@@ -52,6 +52,57 @@
             "filled_icon_2": false,
             "margin_top": 9,
             "margin_bottom": 15
+          }
+        },
+        "product_upsell_MGFCYp": {
+          "type": "product_upsell",
+          "settings": {
+            "style": "toggle_switch",
+            "btn_position": "right",
+            "toggle_element": "button",
+            "add_btn_label": "<strong>Add</strong>",
+            "stacking": "row",
+            "accent_color": "accent-1",
+            "color_scheme": "background-1",
+            "product_list": [
+              "coore™-electric-file"
+            ],
+            "enable_dynamic_recommendations": false,
+            "prdouct_1_preselected": false,
+            "product_1_desc": "",
+            "product_1_percentage_discount": "0",
+            "product_1_fixed_amount_discount": "0",
+            "prdouct_2_preselected": false,
+            "product_2_desc": "",
+            "product_2_percentage_discount": "0",
+            "product_2_fixed_amount_discount": "0",
+            "prdouct_3_preselected": false,
+            "product_3_desc": "",
+            "product_3_percentage_discount": "0",
+            "product_3_fixed_amount_discount": "0",
+            "show_images": true,
+            "images_size": "5",
+            "images_corner_radius": 0,
+            "title_size": "1.4",
+            "title_link": false,
+            "desc_size": "1.2",
+            "price_position": "next_to_title",
+            "price_size": "1.4",
+            "hide_compare_price": false,
+            "show_variant_picker": true,
+            "update_prices": false,
+            "skip_unavailable": false,
+            "corner_radius": 0,
+            "show_box_shadow": false,
+            "show_border": false,
+            "regular_border_color": "#e6e6e6",
+            "selected_border_color": "#6d388b",
+            "border_width": "0.2",
+            "show_custom_bg": false,
+            "regular_bg_color": "#f2f2f2",
+            "selected_bg_color": "#f2f2f2",
+            "margin_top": 21,
+            "margin_bottom": 21
           }
         },
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
@@ -167,6 +218,16 @@
             "margin_bottom": 15
           }
         },
+        "popup_VTGUaq": {
+          "type": "popup",
+          "settings": {
+            "text": "Pop-up link text",
+            "page": "our-story",
+            "close_button_style": "minimalistic",
+            "margin_top": 12,
+            "margin_bottom": 12
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -175,7 +236,7 @@
             "uppercase_text": true,
             "icon_scale": 120,
             "icon_spacing": 10,
-            "display_price": false,
+            "display_price": true,
             "enable_custom_color": false,
             "custom_color": "#53af01",
             "enable_secondary_btn": true,
@@ -183,7 +244,15 @@
             "secondary_btn_enable_custom_color": false,
             "secondary_btn_custom_color": "#dd1d1d",
             "margin_top": 24,
-            "margin_bottom": 24
+            "margin_bottom": 0
+          }
+        },
+        "payment_badges_ndcJK3": {
+          "type": "payment_badges",
+          "settings": {
+            "enabled_payment_types": "stripe, apple_pay, visa, paypal, american_express, google_pay, discover, amazon, bitcoin, shopify_pay, klarna, master,",
+            "margin_top": 0,
+            "margin_bottom": 0
           }
         },
         "e0a0b690-50df-4ca4-acfd-ce2980696cce": {
@@ -251,14 +320,6 @@
             "mobile_transparent_bg": false
           }
         },
-        "payment_badges_ndcJK3": {
-          "type": "payment_badges",
-          "settings": {
-            "enabled_payment_types": "stripe, american_express, apple_pay, visa, paypal, google_pay, discover, amazon, bitcoin, shopify_pay, klarna, master,",
-            "margin_top": 0,
-            "margin_bottom": 0
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -313,29 +374,24 @@
             "margin_top": 24,
             "margin_bottom": 0
           }
-        },
-        "custom_liquid_DiTDaX": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"secure-payment-wrapper\">\n  <h3 class=\"payment-title\">SECURE PAYMENT</h3>\n  <ul class=\"payment-icons\">\n    <li>\n      <img src=\"{{ 'visa.svg' | asset_url }}\" alt=\"Visa\" loading=\"lazy\" />\n    </li>\n    <li>\n      <img src=\"{{ 'mastercard.svg' | asset_url }}\" alt=\"Mastercard\" loading=\"lazy\" />\n    </li>\n    <li>\n      <img src=\"{{ 'paypal.svg' | asset_url }}\" alt=\"PayPal\" loading=\"lazy\" />\n    </li>\n    <li>\n      <img src=\"{{ 'amex.svg' | asset_url }}\" alt=\"American Express\" loading=\"lazy\" />\n    </li>\n    <li>\n      <img src=\"{{ 'applepay.svg' | asset_url }}\" alt=\"Apple Pay\" loading=\"lazy\" />\n    </li>\n  </ul>\n  <p class=\"payment-desc\">100% secure and protected payments</p>\n</div>\n\n<style>\n  .secure-payment-wrapper {\n    padding: 40px 20px;\n    text-align: center;\n    background-color: #ffffff;\n    color: #212644;\n    font-family: 'Inria Serif', serif;\n  }\n\n  .secure-payment-wrapper .payment-title {\n    font-size: 1.5rem;\n    margin-bottom: 20px;\n    letter-spacing: 1px;\n    text-transform: uppercase;\n  }\n\n  .payment-icons {\n    display: flex;\n    justify-content: center;\n    gap: 20px;\n    flex-wrap: wrap;\n    list-style: none;\n    padding: 0;\n    margin: 0 0 20px;\n  }\n\n  .payment-icons li img {\n    height: 40px;\n    width: auto;\n    max-width: 100px;\n  }\n\n  .payment-desc {\n    font-size: 0.9rem;\n    color: #555;\n    font-style: italic;\n  }\n</style>"
-          }
         }
       },
       "block_order": [
         "title",
-        "a6eb81db-40e4-43e0-972f-32db010a4a56",
+        "trustpilot_stars_rqQYfJ",
         "price",
+        "product_upsell_MGFCYp",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
+        "popup_VTGUaq",
         "buy_buttons",
+        "payment_badges_ndcJK3",
         "e0a0b690-50df-4ca4-acfd-ce2980696cce",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
-        "payment_badges_ndcJK3",
         "description",
         "de158e68-5d0d-4819-a625-e2dabdff87d1",
         "collapsible_tab_K9KYaf",
-        "collapsible_tab_qGxgEX",
-        "custom_liquid_DiTDaX"
+        "collapsible_tab_qGxgEX"
       ],
       "custom_css": [],
       "settings": {
