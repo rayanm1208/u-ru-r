@@ -195,7 +195,7 @@
             "plus_border_opacity": 100,
             "show_footer": true,
             "total_price_text": "<strong>Total :</strong>",
-            "total_price_benefit": "<strong>FREE 1 INCLUDED</strong>",
+            "total_price_benefit": "",
             "benefit_color": "accent-1",
             "button_label": "GRAB THIS DEAL",
             "update_prices": false,
