@@ -163,6 +163,72 @@
       "name": "Featured on",
       "settings": {
         "display_id": false,
+        "visibility": "mobile-hidden",
+        "title": "",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "gray_logos": false,
+        "color_scheme": "background-1",
+        "layout": "horizontal",
+        "desktop_logo_height": 50,
+        "columns_mobile": 4,
+        "mobile_logo_height": 30,
+        "mobile_slider": false,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "show_dots": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
+    "logo_list_fPBWJC": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_HhRwm7": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/The_Guardian_2018_svg.png",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_cmAJrh": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/2583556.png",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_jBFfN8": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/GQ-Logo.png",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_GgF6WE": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Vogue-Logo.png",
+            "link": "",
+            "target_blank": false
+          }
+        }
+      },
+      "block_order": [
+        "logo_HhRwm7",
+        "logo_cmAJrh",
+        "logo_jBFfN8",
+        "logo_GgF6WE"
+      ],
+      "name": "Featured on",
+      "settings": {
+        "display_id": false,
         "visibility": "always-display",
         "title": "",
         "title_highlight_color": "#6d388b",
@@ -742,6 +808,7 @@
     "cfca4268-6358-426c-98ab-d292aeef11e5",
     "horizontal_ticker_inVdWh",
     "logo_list_PJeAjh",
+    "logo_list_fPBWJC",
     "rich_text_T7i7jX",
     "image_slider_mKFAjM",
     "image_slider_LYQYXA",
