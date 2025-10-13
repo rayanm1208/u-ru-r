@@ -17,6 +17,29 @@
         "padding_bottom": 36
       }
     },
+    "image_banner_nP6zne": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "desktop-hidden",
+        "image": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_14.png",
+        "image_1_visibility": "mobile-hidden",
+        "image_2": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_14.png",
+        "image_2_visibility": "desktop-hidden",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "url": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "transparent_container_color": "white",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "image_banner_bF9qQd": {
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
@@ -44,12 +67,13 @@
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "display_id": false,
-        "visibility": "always-display",
-        "image_1_visibility": "always-display",
-        "image_2": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_10.png",
+        "visibility": "desktop-hidden",
+        "image": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_15.png",
+        "image_1_visibility": "mobile-hidden",
+        "image_2": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_9.png",
         "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "adapt",
         "url": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
@@ -88,12 +112,13 @@
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "display_id": false,
-        "visibility": "always-display",
-        "image_1_visibility": "always-display",
+        "visibility": "desktop-hidden",
+        "image": "shopify://shop_images/Dark_Blue_Simple_Dark_Tech_and_Gaming_Bio-Link_Website_13.png",
+        "image_1_visibility": "mobile-hidden",
         "image_2": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_11.png",
         "image_2_visibility": "always-display",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "adapt",
         "url": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
@@ -132,34 +157,13 @@
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "display_id": false,
-        "visibility": "always-display",
-        "image_1_visibility": "always-display",
+        "visibility": "desktop-hidden",
+        "image": "shopify://shop_images/11.png",
+        "image_1_visibility": "mobile-hidden",
         "image_2": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_13.png",
         "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
-        "image_height": "large",
-        "url": "",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "transparent_container_color": "white",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "image_banner_nP6zne": {
-      "type": "image-banner",
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "image_1_visibility": "mobile-hidden",
-        "image_2": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_14.png",
-        "image_2_visibility": "desktop-hidden",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "adapt",
         "url": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
@@ -174,12 +178,12 @@
   },
   "order": [
     "main",
-    "image_banner_bF9qQd",
+    "image_banner_nP6zne",
     "image_banner_gTbnbL",
-    "image_banner_MNer4C",
+    "image_banner_bF9qQd",
     "image_banner_pVUFYg",
-    "image_banner_pXKfCH",
+    "image_banner_MNer4C",
     "image_banner_7TPXKN",
-    "image_banner_nP6zne"
+    "image_banner_pXKfCH"
   ]
 }
