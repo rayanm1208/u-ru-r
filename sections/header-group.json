@@ -78,7 +78,7 @@
             "text_alignment": "center",
             "mobile_text_size": 16,
             "desktop_text_size": 17,
-            "icon": "storefront",
+            "icon": "",
             "filled_icon": false,
             "custom_icon": "shopify://shop_images/counter_1_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.svg",
             "mobile_icon_size": 20,
