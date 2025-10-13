@@ -21,7 +21,7 @@
       "type": "main-collection-product-grid",
       "custom_css": [],
       "settings": {
-        "products_per_page": 20,
+        "products_per_page": 8,
         "columns_desktop": 4,
         "stretch_cards": true,
         "image_ratio": "adapt",
