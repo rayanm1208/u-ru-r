@@ -141,7 +141,7 @@
         "image_2": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_13.png",
         "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "small",
         "url": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
