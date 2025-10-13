@@ -71,7 +71,8 @@
         "visibility": "always-display",
         "image": "shopify://shop_images/10.png",
         "image_1_visibility": "mobile-hidden",
-        "image_2_visibility": "always-display",
+        "image_2": "shopify://shop_images/getimg_ai_img-Mp8GzgmugTATazCkxvUCQ.webp",
+        "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "url": "",
@@ -93,9 +94,76 @@
         "visibility": "always-display",
         "image": "shopify://shop_images/11.png",
         "image_1_visibility": "mobile-hidden",
-        "image_2_visibility": "always-display",
+        "image_2": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_11.png",
+        "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
+        "url": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "transparent_container_color": "white",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_JwVcpA": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image_1_visibility": "always-display",
+        "image_2": "shopify://shop_images/img-9YDQ3MKwvdTZrjdyIp46J.webp",
+        "image_2_visibility": "desktop-hidden",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "url": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "transparent_container_color": "white",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_wbeqzJ": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image_1_visibility": "mobile-hidden",
+        "image_2": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_13.png",
+        "image_2_visibility": "desktop-hidden",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "url": "",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "transparent_container_color": "white",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_9t8yDh": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image_1_visibility": "always-display",
+        "image_2": "shopify://shop_images/We_don_t_just_treat_symptoms._We_restore_confidence._4.png",
+        "image_2_visibility": "desktop-hidden",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
         "url": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
@@ -113,6 +181,9 @@
     "image_banner_mJMtPz",
     "image_banner_JafwyD",
     "image_banner_nARc8i",
-    "image_banner_LdfC6G"
+    "image_banner_LdfC6G",
+    "image_banner_JwVcpA",
+    "image_banner_wbeqzJ",
+    "image_banner_9t8yDh"
   ]
 }
