@@ -753,7 +753,7 @@
         "arrows_color_scheme": "inverse",
         "transparent_arrows": false,
         "dots_color_scheme": "inverse",
-        "desktop_full_page": false,
+        "desktop_full_page": true,
         "columns_desktop": 3,
         "slider_desktop": true,
         "per_move_desktop": 3,
