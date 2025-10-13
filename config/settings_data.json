@@ -491,7 +491,7 @@
           "product_upsells_MfMY9m"
         ],
         "settings": {
-          "test_mode": true,
+          "test_mode": false,
           "heading_text": "Your Cart",
           "heading_alignment": "flex-start",
           "desktop_width": "normal",
