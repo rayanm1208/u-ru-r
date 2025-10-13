@@ -259,7 +259,7 @@
         "payment_badges_ndcJK3": {
           "type": "payment_badges",
           "settings": {
-            "enabled_payment_types": "stripe, apple_pay, visa, paypal, american_express, google_pay, discover, amazon, bitcoin, shopify_pay, klarna, master,",
+            "enabled_payment_types": "stripe, apple_pay, visa, paypal, american_express, google_pay, amazon, shopify_pay, klarna, master,",
             "margin_top": 0,
             "margin_bottom": 0
           }
