@@ -58,7 +58,7 @@
         "show_social": true,
         "enable_country_selector": true,
         "enable_language_selector": true,
-        "payment_enable": true,
+        "payment_enable": false,
         "enabled_payment_types": "",
         "show_policy": true,
         "branding_text": "",
