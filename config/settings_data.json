@@ -294,22 +294,22 @@
               "accent_color": "accent-1",
               "enable_goal_1": true,
               "goal_1_label": "<strong>10% OFF</strong>",
-              "goal_1_text": "Keep going for a bigger reward !",
+              "goal_1_text": "a bigger reward !",
               "goal_1_amount": 80,
-              "goal_1_icon": "shoppingmode",
-              "goal_1_icon_filled": false,
+              "goal_1_icon": "loyalty",
+              "goal_1_icon_filled": true,
               "enable_goal_2": true,
               "goal_2_label": "<strong>15% OFF</strong>",
-              "goal_2_text": "Add a bit more to receive a free gift !",
+              "goal_2_text": "a free gift !",
               "goal_2_amount": 120,
-              "goal_2_icon": "shoppingmode",
+              "goal_2_icon": "loyalty",
               "goal_2_icon_filled": true,
               "enable_goal_3": true,
-              "goal_3_label": "<strong>15% OFF + Free Gift</strong>",
+              "goal_3_label": "<strong>Free Gift </strong>",
               "goal_3_text": "",
               "goal_3_amount": 150,
               "goal_3_icon": "redeem",
-              "goal_3_icon_filled": false,
+              "goal_3_icon_filled": true,
               "margin_top": 15,
               "margin_bottom": 15
             }
@@ -332,13 +332,13 @@
           "097b7b4f-c0b8-4073-a06b-e6d49a5aad20": {
             "type": "cart_items",
             "settings": {
-              "image_size": "20",
+              "image_size": "17",
               "image_link": false,
-              "title_size": "1.5",
+              "title_size": "1.3",
               "title_link": false,
-              "displayed_variants": "compact",
+              "displayed_variants": "classic",
               "prices_position": "right",
-              "displayed_compare_prices": "product",
+              "displayed_compare_prices": "automatic",
               "price_color": "accent-1",
               "compare_price_color": "text",
               "display_single_item_prices": true,
@@ -350,23 +350,23 @@
               "quantity_corner_radius": 6,
               "quantity_border_width": 1,
               "quantity_border_color": "#787878",
-              "quantity_container_color_scheme": "background-2",
-              "quantity_input_padding": 0.7,
-              "quantity_separators_opacity": 20,
+              "quantity_container_color_scheme": "background-1",
+              "quantity_input_padding": 0.5,
+              "quantity_separators_opacity": 25,
               "quantity_padding": 0.4,
-              "quantity_btns_color_scheme": "background-2",
+              "quantity_btns_color_scheme": "accent-1",
               "quantity_round_btns": true,
               "quantity_outline_btns": false,
-              "quantity_btns_icon_size": 70,
-              "margin_top": 21,
-              "margin_bottom": 21
+              "quantity_btns_icon_size": 65,
+              "margin_top": 12,
+              "margin_bottom": 45
             }
           },
           "631b0e34-4299-400e-9f4d-c107c08cce01": {
             "type": "discount_field",
             "disabled": true,
             "settings": {
-              "bottom_separator": true,
+              "bottom_separator": false,
               "placeholder": "Enter discount code",
               "btn_label": "ADD",
               "error_msg": "Please enter a discount code!",
@@ -414,7 +414,7 @@
           "68fdc0a0-cd7c-40b9-97b3-a76eb7917a47": {
             "type": "payment_badges",
             "settings": {
-              "enabled_payment_types": "",
+              "enabled_payment_types": "stripe, american_express, apple_pay, visa, paypal, google_pay, discover, amazon, bitcoin, shopify_pay, klarna, master",
               "margin_top": 12,
               "margin_bottom": 12
             }
@@ -425,7 +425,7 @@
               "position": "body",
               "display": "globally",
               "display_product_handles": "",
-              "style": "toggle_switch",
+              "style": "add_button",
               "btn_position": "right",
               "toggle_element": "button",
               "add_btn_label": "<strong>Add</strong>",
@@ -491,8 +491,8 @@
           "product_upsells_MfMY9m"
         ],
         "settings": {
-          "test_mode": false,
-          "heading_text": "Cart • [count] items",
+          "test_mode": true,
+          "heading_text": "Your Cart",
           "heading_alignment": "flex-start",
           "desktop_width": "normal",
           "mobile_width": "full",
