@@ -285,7 +285,6 @@
           },
           "926ea95f-fd8a-43e7-b215-de4f6cbc19f9": {
             "type": "checkpoints_bar",
-            "disabled": true,
             "settings": {
               "goal_type": "subtotal",
               "progress_message": "You're [amount] away from [next_goal]!",
