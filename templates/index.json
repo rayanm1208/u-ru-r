@@ -229,7 +229,7 @@
       "name": "Featured on",
       "settings": {
         "display_id": false,
-        "visibility": "always-display",
+        "visibility": "desktop-hidden",
         "title": "",
         "title_highlight_color": "#6d388b",
         "heading_size": "h1",
@@ -674,12 +674,54 @@
             "author_avatar": "shopify://shop_images/istockphoto-2028182052-612x612.jpg",
             "author": "Sarah"
           }
+        },
+        "column_G6Py4B": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 4,
+            "title": "Finally something that works !",
+            "text": "<p>I’ve tried countless treatments from pharmacies and nothing ever seemed to help. Coore was my last hope before considering laser.<br/><br/>After 3 weeks of consistent use, I already noticed a huge difference — the yellow colour faded and the nail is growing back healthier.<br/><br/>Super easy to apply, and the pen format is genius. Highly recommend !</p>",
+            "author_avatar": "shopify://shop_images/a319e1d77052dc4ac66d825ec28a6f42.jpg",
+            "author": "Charlotte T."
+          }
+        },
+        "column_xaBUME": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 4.5,
+            "title": "My confidence is back",
+            "text": "<p>I was so self-conscious about my toenails, I avoided wearing sandals for years. I started using the Coore™ Complete Recovery Kit every morning and evening, and it’s been a game changer.<br/><br/>The electric file really helps the treatment penetrate, and the results are clearly visible.<br/><br/>Finally, something that delivers what it promises.</p>",
+            "author_avatar": "shopify://shop_images/3fa6287b7bf962fdc6c377391056c2df.jpg",
+            "author": "James P"
+          }
+        },
+        "column_ewjcAc": {
+          "type": "column",
+          "settings": {
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "stars_rating": 5,
+            "title": "Works well if you follow the routine",
+            "text": "<p>At first I wasn’t sure it was doing anything, but after the first 10 days, I could see the infected nail area shrinking. I’ve been taking photos to track progress and it’s really encouraging.<br/><br/>Stick to the instructions (2x daily and prep the nail properly) and it works.<br/><br/>Dropped one star because I wish the file came with a travel pouch.</p>",
+            "author_avatar": "shopify://shop_images/2652476fbfbd95fc0fb1104766899f75.jpg",
+            "author": "Fiona L"
+          }
         }
       },
       "block_order": [
         "column_c8EHg7",
         "column_PgQAeX",
-        "column_BbPWQb"
+        "column_BbPWQb",
+        "column_G6Py4B",
+        "column_xaBUME",
+        "column_ewjcAc"
       ],
       "name": "Trustpilot reviews",
       "settings": {
