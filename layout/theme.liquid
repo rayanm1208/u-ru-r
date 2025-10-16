@@ -461,11 +461,64 @@
     </script>
   </head>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    {% if template == 'product' %}
+      fbq('track', 'ViewContent', {
+        content_name: '{{ product.title | escape }}',
+        content_ids: ['{{ product.id }}'],
+        content_type: 'product',
+        value: {{ product.price | money_without_currency | remove: ',' }},
+        currency: '{{ shop.currency }}'
+      });
+    {% endif %}
+
+    {% if template == 'cart' %}
+      fbq('track', 'AddToCart', {
+        value: {{ cart.total_price | money_without_currency | remove: ',' }},
+        currency: '{{ shop.currency }}',
+        contents: [
+          {% for item in cart.items %}
+          {
+            id: '{{ item.product_id }}',
+            quantity: {{ item.quantity }},
+            item_price: {{ item.final_line_price | money_without_currency | remove: ',' }}
+          }{% unless forloop.last %},{% endunless %}
+          {% endfor %}
+        ],
+        content_type: 'product'
+      });
+    {% endif %}
+
+    {% if template contains 'checkout' and content_for_header contains 'checkout' %}
+      fbq('track', 'InitiateCheckout', {
+        value: {{ checkout.subtotal_price | money_without_currency | remove: ',' }},
+        currency: '{{ shop.currency }}'
+      });
+    {% endif %}
+
+    {% if template contains 'checkout' and checkout.completed %}
+      fbq('track', 'Purchase', {
+        value: {{ checkout.total_price | money_without_currency | remove: ',' }},
+        currency: '{{ shop.currency }}',
+        contents: [
+          {% for line_item in checkout.line_items %}
+          {
+            id: '{{ line_item.product_id }}',
+            quantity: {{ line_item.quantity }}
+          }{% unless forloop.last %},{% endunless %}
+          {% endfor %}
+        ],
+        content_type: 'product'
+      });
+    {% endif %}
+  });
+</script>
+
   <body class="gradient link-btns--{{ settings.link_btn_hover }} action-btns--{{ settings.action_btn_hover }}">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ 'accessibility.skip_to_text' | t }}
     </a>
-
     {% sections 'header-group' %}
     
     {%- if settings.cart_type == 'drawer' -%}
