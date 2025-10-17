@@ -328,6 +328,7 @@
         "image_slide_Y7WC36": {
           "type": "image_slide",
           "settings": {
+            "image": "shopify://shop_images/Black_White_Minimalist_Brand_Fashion_Logo.png",
             "link": "",
             "description": "",
             "desc_alignment": "center",
