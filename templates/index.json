@@ -62,39 +62,88 @@
     "horizontal_ticker_inVdWh": {
       "type": "horizontal-ticker",
       "blocks": {
-        "text_qje7CK": {
-          "type": "text",
+        "image_z4Xajr": {
+          "type": "image",
           "settings": {
-            "title": "📦 Free 3-5 Day Shipping"
+            "image": "shopify://shop_images/17_64c3bc50-adaf-4447-8849-f7cbcffe4d58.webp"
           }
         },
-        "text_3aRfbB": {
-          "type": "text",
+        "image_nifa7b": {
+          "type": "image",
           "settings": {
-            "title": "💲Easy Returns via Help Center"
+            "image": "shopify://shop_images/22_56244901-660d-446e-971b-f9db84d63060.webp"
+          }
+        },
+        "image_VVUzQR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/19_e16dca14-fc3b-486d-9841-00e3cf78bcfd.webp"
+          }
+        },
+        "image_wdQxFk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20_b502f183-6ec7-4d72-aac9-016cc4773aa4.webp"
+          }
+        },
+        "image_eCHa3R": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GAMELAB_PRODUCT_IMG_7.webp"
+          }
+        },
+        "image_dNrLkA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/23_1920c520-4822-4f73-a032-805a209eceb0.webp"
+          }
+        },
+        "image_VNfjgR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/21_197b24c5-d40d-4b54-8b58-9f420ce9677e.webp"
+          }
+        },
+        "image_x7Wait": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/18_f7090f5c-95f0-497b-ae41-880bc238bfbd.webp"
+          }
+        },
+        "image_rzECG7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/16_2bb19407-932a-475a-866a-937c37e4ee76.webp"
           }
         }
       },
       "block_order": [
-        "text_qje7CK",
-        "text_3aRfbB"
+        "image_z4Xajr",
+        "image_nifa7b",
+        "image_VVUzQR",
+        "image_wdQxFk",
+        "image_eCHa3R",
+        "image_dNrLkA",
+        "image_VNfjgR",
+        "image_x7Wait",
+        "image_rzECG7"
       ],
       "name": "Horizontal Ticker",
       "settings": {
         "visibility": "always-display",
-        "speed": 3,
+        "speed": 5,
         "direction": "normal",
-        "stop_on_hover": false,
-        "mobile_spacing": 60,
-        "desktop_spacing": 100,
+        "stop_on_hover": true,
+        "mobile_spacing": 7,
+        "desktop_spacing": -10,
         "color_scheme": "custom",
-        "mobile_text_size": 16,
-        "desktop_text_size": 18,
+        "mobile_text_size": 25,
+        "desktop_text_size": 34,
         "italic_text": false,
         "uppercase_text": false,
         "bold_text": false,
-        "mobile_image_height": 26,
-        "desktop_image_height": 40,
+        "mobile_image_height": 54,
+        "desktop_image_height": 54,
         "mobile_reviews_width": 300,
         "desktop_reviews_width": 400,
         "hidden_products": "",
@@ -104,7 +153,7 @@
         "mobile_padding_bottom": 12,
         "desktop_padding_top": 16,
         "desktop_padding_bottom": 16,
-        "custom_colors_background": "#212644",
+        "custom_colors_background": "#000000",
         "custom_gradient_background": "",
         "custom_colors_text": "#ffffff"
       }
@@ -820,8 +869,8 @@
   },
   "order": [
     "cfca4268-6358-426c-98ab-d292aeef11e5",
-    "horizontal_ticker_inVdWh",
     "logo_list_PJeAjh",
+    "horizontal_ticker_inVdWh",
     "logo_list_fPBWJC",
     "rich_text_T7i7jX",
     "image_slider_mKFAjM",
