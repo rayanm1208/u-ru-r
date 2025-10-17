@@ -59,6 +59,63 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "horizontal_ticker_LQKhUe": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "text_BY9BXb": {
+          "type": "text",
+          "settings": {
+            "title": "Easy Returns via Help Center"
+          }
+        },
+        "text_dKMA8f": {
+          "type": "text",
+          "settings": {
+            "title": "📦Free 3-5 Day Shipping📦"
+          }
+        },
+        "text_WiUaL4": {
+          "type": "text",
+          "settings": {
+            "title": "💲90-Day Satisfaction Guarantee – Or Your Money Back💲"
+          }
+        }
+      },
+      "block_order": [
+        "text_BY9BXb",
+        "text_dKMA8f",
+        "text_WiUaL4"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "custom",
+        "mobile_text_size": 14,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#212644",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff"
+      }
+    },
     "logo_list_fPBWJC": {
       "type": "logo-list",
       "blocks": {
@@ -810,6 +867,7 @@
   },
   "order": [
     "cfca4268-6358-426c-98ab-d292aeef11e5",
+    "horizontal_ticker_LQKhUe",
     "logo_list_fPBWJC",
     "logo_list_pMqwhj",
     "rich_text_T7i7jX",
