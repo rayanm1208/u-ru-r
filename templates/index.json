@@ -158,76 +158,6 @@
         "custom_colors_text": "#ffffff"
       }
     },
-    "logo_list_PJeAjh": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_DmiB7f": {
-          "type": "logo",
-          "settings": {
-            "link": "",
-            "target_blank": false
-          }
-        },
-        "logo_cgB9AN": {
-          "type": "logo",
-          "settings": {
-            "link": "",
-            "target_blank": false
-          }
-        },
-        "logo_kPeErB": {
-          "type": "logo",
-          "settings": {
-            "link": "",
-            "target_blank": false
-          }
-        },
-        "logo_g3ikrK": {
-          "type": "logo",
-          "settings": {
-            "link": "",
-            "target_blank": false
-          }
-        },
-        "logo_tTVRK4": {
-          "type": "logo",
-          "settings": {
-            "link": "",
-            "target_blank": false
-          }
-        }
-      },
-      "block_order": [
-        "logo_DmiB7f",
-        "logo_cgB9AN",
-        "logo_kPeErB",
-        "logo_g3ikrK",
-        "logo_tTVRK4"
-      ],
-      "name": "Featured on",
-      "settings": {
-        "display_id": false,
-        "visibility": "mobile-hidden",
-        "title": "",
-        "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
-        "gray_logos": false,
-        "color_scheme": "background-1",
-        "layout": "horizontal",
-        "desktop_logo_height": 50,
-        "columns_mobile": 4,
-        "mobile_logo_height": 30,
-        "mobile_slider": false,
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "show_dots": false,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#121212"
-      }
-    },
     "logo_list_fPBWJC": {
       "type": "logo-list",
       "blocks": {
@@ -869,7 +799,6 @@
   },
   "order": [
     "cfca4268-6358-426c-98ab-d292aeef11e5",
-    "logo_list_PJeAjh",
     "horizontal_ticker_inVdWh",
     "logo_list_fPBWJC",
     "rich_text_T7i7jX",
