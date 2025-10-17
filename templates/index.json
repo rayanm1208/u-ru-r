@@ -59,87 +59,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "horizontal_ticker_inVdWh": {
-      "type": "horizontal-ticker",
-      "blocks": {
-        "image_z4Xajr": {
-          "type": "image",
-          "settings": {}
-        },
-        "image_nifa7b": {
-          "type": "image",
-          "settings": {}
-        },
-        "image_VVUzQR": {
-          "type": "image",
-          "settings": {}
-        },
-        "image_wdQxFk": {
-          "type": "image",
-          "settings": {}
-        },
-        "image_eCHa3R": {
-          "type": "image",
-          "settings": {}
-        },
-        "image_dNrLkA": {
-          "type": "image",
-          "settings": {}
-        },
-        "image_VNfjgR": {
-          "type": "image",
-          "settings": {}
-        },
-        "image_x7Wait": {
-          "type": "image",
-          "settings": {}
-        },
-        "image_rzECG7": {
-          "type": "image",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "image_z4Xajr",
-        "image_nifa7b",
-        "image_VVUzQR",
-        "image_wdQxFk",
-        "image_eCHa3R",
-        "image_dNrLkA",
-        "image_VNfjgR",
-        "image_x7Wait",
-        "image_rzECG7"
-      ],
-      "name": "Horizontal Ticker",
-      "settings": {
-        "visibility": "always-display",
-        "speed": 5,
-        "direction": "normal",
-        "stop_on_hover": true,
-        "mobile_spacing": 7,
-        "desktop_spacing": -10,
-        "color_scheme": "custom",
-        "mobile_text_size": 25,
-        "desktop_text_size": 34,
-        "italic_text": false,
-        "uppercase_text": false,
-        "bold_text": false,
-        "mobile_image_height": 54,
-        "desktop_image_height": 54,
-        "mobile_reviews_width": 300,
-        "desktop_reviews_width": 400,
-        "hidden_products": "",
-        "enable_specific_display": false,
-        "displayed_products": "",
-        "mobile_padding_top": 12,
-        "mobile_padding_bottom": 12,
-        "desktop_padding_top": 16,
-        "desktop_padding_bottom": 16,
-        "custom_colors_background": "#ffffff",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#ffffff"
-      }
-    },
     "logo_list_fPBWJC": {
       "type": "logo-list",
       "blocks": {
@@ -174,13 +93,88 @@
             "link": "",
             "target_blank": false
           }
+        },
+        "logo_w4chTH": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/2583556.png",
+            "link": "",
+            "target_blank": false
+          }
         }
       },
       "block_order": [
         "logo_HhRwm7",
         "logo_cmAJrh",
         "logo_jBFfN8",
-        "logo_GgF6WE"
+        "logo_GgF6WE",
+        "logo_w4chTH"
+      ],
+      "name": "Featured on",
+      "settings": {
+        "display_id": false,
+        "visibility": "mobile-hidden",
+        "title": "",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "gray_logos": false,
+        "color_scheme": "background-1",
+        "layout": "horizontal",
+        "desktop_logo_height": 50,
+        "columns_mobile": 4,
+        "mobile_logo_height": 30,
+        "mobile_slider": false,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "show_dots": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
+    "logo_list_pMqwhj": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_zYYECW": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/GQ-Logo.png",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_B8xxVY": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/The_Guardian_2018_svg.png",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_cwT7qT": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/NY24-ID176257-daily-mail-color-logo-dailymail-logoraster-250800.png",
+            "link": "",
+            "target_blank": false
+          }
+        },
+        "logo_yRUTmE": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/Vogue-Logo.png",
+            "link": "",
+            "target_blank": false
+          }
+        }
+      },
+      "block_order": [
+        "logo_zYYECW",
+        "logo_B8xxVY",
+        "logo_cwT7qT",
+        "logo_yRUTmE"
       ],
       "name": "Featured on",
       "settings": {
@@ -785,8 +779,8 @@
   },
   "order": [
     "cfca4268-6358-426c-98ab-d292aeef11e5",
-    "horizontal_ticker_inVdWh",
     "logo_list_fPBWJC",
+    "logo_list_pMqwhj",
     "rich_text_T7i7jX",
     "image_slider_mKFAjM",
     "image_slider_LYQYXA",
