@@ -424,6 +424,7 @@
             "heading": "Aloe vera",
             "icon": "check_box",
             "filled_icon": false,
+            "custom_icon": "shopify://shop_images/50dc36ae-a8d2-43c6-9b5b-0f76e65f0970.webp",
             "row_content": "<p>Aloe vera is included to help calm and hydrate the skin during treatment. As a moisturizing inactive ingredient, it helps maintain comfort while the active antifungal works to relieve athlete's foot and ringworm symptoms.</p>",
             "page": ""
           }
@@ -434,6 +435,7 @@
             "heading": "Almond oil",
             "icon": "check_box",
             "filled_icon": false,
+            "custom_icon": "shopify://shop_images/4c92008b-0293-48ea-9f08-5f99f56e16d0.webp",
             "row_content": "<p>is included to help moisturize and soften dry, rough skin around the affected area. It supports skin comfort and helps maintain hydration during antifungal treatment.</p>",
             "page": ""
           }
@@ -444,6 +446,7 @@
             "heading": "Jojoba oil",
             "icon": "check_box",
             "filled_icon": false,
+            "custom_icon": "shopify://shop_images/dbc2c4d9-f9f8-4e2a-ac6b-c3196f3c8bde.webp",
             "row_content": "<p>Jojoba oil is included to help moisturize and soften dry skin around the affacted area. Its emollient properties support skin comfort and help maintain hydration during treatment.</p>",
             "page": ""
           }
@@ -454,6 +457,7 @@
             "heading": "Tea tree oil",
             "icon": "check_box",
             "filled_icon": false,
+            "custom_icon": "shopify://shop_images/0d1e8f17-1f72-437b-b7ae-a720a173741a.webp",
             "row_content": "<p>Tea tree oil is included as a plant-based ingredient known for its refreshing feel and skin-conditioning properties. It helps keep the skin around the affected area clean and comfortable during antifungal treatment.</p>",
             "page": ""
           }
@@ -464,6 +468,7 @@
             "heading": "Manuka oil",
             "icon": "check_box",
             "filled_icon": false,
+            "custom_icon": "shopify://shop_images/fd4585a5-3e51-46e2-8ca0-bafabdde7539.webp",
             "row_content": "<p>Manuka oil is included to help moisturize and condition the skin around affected areas. Its plant-derived properties help maintain skin comfort.</p>",
             "page": ""
           }
@@ -474,6 +479,7 @@
             "heading": "Propolis extract",
             "icon": "check_box",
             "filled_icon": false,
+            "custom_icon": "shopify://shop_images/95f5277a-33bf-4f69-ac21-dd854494e563.webp",
             "row_content": "<p>Propolis extract is included as a skin-conditioning ingredient to help keep the area moisturized and comfortable during antifungal treatment. Known for its natural soothing properties, it helps maintain skin hydration and overall comfort.</p>",
             "page": ""
           }
