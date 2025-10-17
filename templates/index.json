@@ -266,6 +266,7 @@
         "image_slide_i7g8HR": {
           "type": "image_slide",
           "settings": {
+            "image": "shopify://shop_images/3_0615367f-a7ae-4468-97a9-178759f3cd3e.png",
             "link": "",
             "description": "",
             "desc_alignment": "center",
