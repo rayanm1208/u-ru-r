@@ -110,7 +110,7 @@
         "displayed_products": "",
         "padding_top": 8,
         "padding_bottom": 8,
-        "custom_colors_background": "#212644",
+        "custom_colors_background": "#000000",
         "custom_gradient_background": "",
         "custom_colors_text": "#ffffff"
       }
@@ -120,7 +120,7 @@
       "settings": {
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": true,
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "logo_link": "",
         "logo_position": "middle-center",
         "menu": "main-menu",

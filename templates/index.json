@@ -15,8 +15,8 @@
         "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/coore_5.png",
-            "mobile_image": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_8.png",
+            "image": "shopify://shop_images/Banner_desktop.webp",
+            "mobile_image": "shopify://shop_images/Banner_mobile.webp",
             "image_overlay_opacity": 0,
             "heading": "",
             "title_highlight_color": "#6d388b",
@@ -115,7 +115,6 @@
         "logo_DmiB7f": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/The_Guardian_2018_svg.png",
             "link": "",
             "target_blank": false
           }
@@ -123,7 +122,6 @@
         "logo_cgB9AN": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/2583556.png",
             "link": "",
             "target_blank": false
           }
@@ -131,7 +129,6 @@
         "logo_kPeErB": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/GQ-Logo.png",
             "link": "",
             "target_blank": false
           }
@@ -139,7 +136,6 @@
         "logo_g3ikrK": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/NY24-ID176257-daily-mail-color-logo-dailymail-logoraster-250800.png",
             "link": "",
             "target_blank": false
           }
@@ -147,7 +143,6 @@
         "logo_tTVRK4": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/Vogue-Logo.png",
             "link": "",
             "target_blank": false
           }
@@ -190,7 +185,6 @@
         "logo_HhRwm7": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/The_Guardian_2018_svg.png",
             "link": "",
             "target_blank": false
           }
@@ -198,7 +192,6 @@
         "logo_cmAJrh": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/2583556.png",
             "link": "",
             "target_blank": false
           }
@@ -206,7 +199,6 @@
         "logo_jBFfN8": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/GQ-Logo.png",
             "link": "",
             "target_blank": false
           }
@@ -214,7 +206,6 @@
         "logo_GgF6WE": {
           "type": "logo",
           "settings": {
-            "image": "shopify://shop_images/Vogue-Logo.png",
             "link": "",
             "target_blank": false
           }
@@ -316,7 +307,6 @@
         "image_slide_i7g8HR": {
           "type": "image_slide",
           "settings": {
-            "image": "shopify://shop_images/3_0615367f-a7ae-4468-97a9-178759f3cd3e.png",
             "link": "",
             "description": "",
             "desc_alignment": "center",
@@ -378,7 +368,6 @@
         "image_slide_Y7WC36": {
           "type": "image_slide",
           "settings": {
-            "image": "shopify://shop_images/Black_White_Minimalist_Brand_Fashion_Logo.png",
             "link": "",
             "description": "",
             "desc_alignment": "center",
@@ -474,7 +463,6 @@
             "heading": "Aloe vera",
             "icon": "check_box",
             "filled_icon": false,
-            "custom_icon": "shopify://shop_images/50dc36ae-a8d2-43c6-9b5b-0f76e65f0970.webp",
             "row_content": "<p>Aloe vera is included to help calm and hydrate the skin during treatment. As a moisturizing inactive ingredient, it helps maintain comfort while the active antifungal works to relieve athlete's foot and ringworm symptoms.</p>",
             "page": ""
           }
@@ -485,7 +473,6 @@
             "heading": "Almond oil",
             "icon": "check_box",
             "filled_icon": false,
-            "custom_icon": "shopify://shop_images/4c92008b-0293-48ea-9f08-5f99f56e16d0.webp",
             "row_content": "<p>is included to help moisturize and soften dry, rough skin around the affected area. It supports skin comfort and helps maintain hydration during antifungal treatment.</p>",
             "page": ""
           }
@@ -496,7 +483,6 @@
             "heading": "Jojoba oil",
             "icon": "check_box",
             "filled_icon": false,
-            "custom_icon": "shopify://shop_images/dbc2c4d9-f9f8-4e2a-ac6b-c3196f3c8bde.webp",
             "row_content": "<p>Jojoba oil is included to help moisturize and soften dry skin around the affacted area. Its emollient properties support skin comfort and help maintain hydration during treatment.</p>",
             "page": ""
           }
@@ -507,7 +493,6 @@
             "heading": "Tea tree oil",
             "icon": "check_box",
             "filled_icon": false,
-            "custom_icon": "shopify://shop_images/0d1e8f17-1f72-437b-b7ae-a720a173741a.webp",
             "row_content": "<p>Tea tree oil is included as a plant-based ingredient known for its refreshing feel and skin-conditioning properties. It helps keep the skin around the affected area clean and comfortable during antifungal treatment.</p>",
             "page": ""
           }
@@ -518,7 +503,6 @@
             "heading": "Manuka oil",
             "icon": "check_box",
             "filled_icon": false,
-            "custom_icon": "shopify://shop_images/fd4585a5-3e51-46e2-8ca0-bafabdde7539.webp",
             "row_content": "<p>Manuka oil is included to help moisturize and condition the skin around affected areas. Its plant-derived properties help maintain skin comfort.</p>",
             "page": ""
           }
@@ -529,7 +513,6 @@
             "heading": "Propolis extract",
             "icon": "check_box",
             "filled_icon": false,
-            "custom_icon": "shopify://shop_images/95f5277a-33bf-4f69-ac21-dd854494e563.webp",
             "row_content": "<p>Propolis extract is included as a skin-conditioning ingredient to help keep the area moisturized and comfortable during antifungal treatment. Known for its natural soothing properties, it helps maintain skin hydration and overall comfort.</p>",
             "page": ""
           }
@@ -556,7 +539,6 @@
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
         "open_first_collapsible_row": false,
-        "image": "shopify://shop_images/Design_sans_titre_9.png",
         "video_muted_autoplay": true,
         "image_ratio": "adapt",
         "desktop_layout": "image_first",
@@ -645,7 +627,6 @@
             "stars_rating": 5,
             "title": "Works well if you follow the routine",
             "text": "<p>At first I wasn’t sure it was doing anything, but after the first 10 days, I could see the infected nail area shrinking. I’ve been taking photos to track progress and it’s really encouraging.<br/><br/>Stick to the instructions (2x daily and prep the nail properly) and it works.<br/><br/>Dropped one star because I wish the file came with a travel pouch.</p>",
-            "author_avatar": "shopify://shop_images/2652476fbfbd95fc0fb1104766899f75.jpg",
             "author": "Fiona L"
           }
         },
@@ -658,7 +639,6 @@
             "stars_rating": 4.5,
             "title": "My confidence is back",
             "text": "<p>I was so self-conscious about my toenails, I avoided wearing sandals for years. I started using the Coore™ Complete Recovery Kit every morning and evening, and it’s been a game changer.<br/><br/>The electric file really helps the treatment penetrate, and the results are clearly visible.<br/><br/>Finally, something that delivers what it promises.</p>",
-            "author_avatar": "shopify://shop_images/3fa6287b7bf962fdc6c377391056c2df.jpg",
             "author": "James P"
           }
         },
@@ -671,7 +651,6 @@
             "stars_rating": 4,
             "title": "Finally something that works !",
             "text": "<p>I’ve tried countless treatments from pharmacies and nothing ever seemed to help. Coore was my last hope before considering laser.<br/><br/>After 3 weeks of consistent use, I already noticed a huge difference — the yellow colour faded and the nail is growing back healthier.<br/><br/>Super easy to apply, and the pen format is genius. Highly recommend !</p>",
-            "author_avatar": "shopify://shop_images/a319e1d77052dc4ac66d825ec28a6f42.jpg",
             "author": "Charlotte T."
           }
         },
@@ -684,7 +663,6 @@
             "stars_rating": 5,
             "title": "High quality product",
             "text": "<p>This product came with so much higher quality than I expected. The packaging, instructions, and even product itself came quick, clean, and at the utmost quality. I love how the pens are easy to use and don’t make a mess. They also smell good- not like other fungal ointments. Fantastic product!</p>",
-            "author_avatar": "shopify://shop_images/istockphoto-2028182052-612x612.jpg",
             "author": "Sarah"
           }
         },
@@ -697,7 +675,6 @@
             "stars_rating": 5,
             "title": "Very good product",
             "text": "<p>I liked the product so much that I'm going to buy it again before I finish my third pen, so I don't run out. I use it twice a day, morning and night. I'm getting great results. I highly recommend it.</p>",
-            "author_avatar": "shopify://shop_images/istockphoto-2185972445-1024x1024.jpg",
             "author": "Jay"
           }
         },
@@ -710,7 +687,6 @@
             "stars_rating": 4.5,
             "title": "Works wonders !",
             "text": "<p>This stuff really works! It takes a while but if you remain vigilant and persistent it will REALLY work! It’s great stuff and I can finally show my toes in public.</p>",
-            "author_avatar": "shopify://shop_images/istockphoto-2185791212-612x612.jpg",
             "author": "Degmar"
           }
         }
@@ -784,7 +760,6 @@
       "settings": {
         "display_id": false,
         "visibility": "mobile-hidden",
-        "image": "shopify://shop_images/Dark_Blue_Simple_Dark_Tech_and_Gaming_Bio-Link_Website.png",
         "image_1_visibility": "always-display",
         "image_2_visibility": "always-display",
         "image_overlay_opacity": 0,
@@ -806,9 +781,7 @@
       "settings": {
         "display_id": false,
         "visibility": "desktop-hidden",
-        "image": "shopify://shop_images/Design_sans_titre_12.png",
         "image_1_visibility": "always-display",
-        "image_2": "shopify://shop_images/df386733-1faa-4d90-a09e-cb2a3c62ff66_1.avif",
         "image_2_visibility": "always-display",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
@@ -829,7 +802,6 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "image": "shopify://shop_images/Dark_Blue_Simple_Dark_Tech_and_Gaming_Bio-Link_Website_12.png",
         "image_1_visibility": "always-display",
         "image_2_visibility": "always-display",
         "image_overlay_opacity": 0,
