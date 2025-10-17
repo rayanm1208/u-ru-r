@@ -733,8 +733,9 @@
       "settings": {
         "display_id": false,
         "visibility": "mobile-hidden",
-        "image_1_visibility": "always-display",
-        "image_2_visibility": "always-display",
+        "image": "shopify://shop_images/Design_sans_titre_10.png",
+        "image_1_visibility": "mobile-hidden",
+        "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "url": "shopify://pages/our-story",
@@ -754,32 +755,13 @@
       "settings": {
         "display_id": false,
         "visibility": "desktop-hidden",
-        "image_1_visibility": "always-display",
-        "image_2_visibility": "always-display",
+        "image": "shopify://shop_images/Design_sans_titre_11.png",
+        "image_1_visibility": "mobile-hidden",
+        "image_2": "shopify://shop_images/Design_sans_titre_11.png",
+        "image_2_visibility": "desktop-hidden",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "url": "shopify://pages/our-story",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "transparent_container_color": "white",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "image_banner_wXUXyV": {
-      "type": "image-banner",
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "image_1_visibility": "always-display",
-        "image_2_visibility": "always-display",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "url": "",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -803,7 +785,6 @@
     "featured_collection_6MAtXH",
     "trustpilot_reviews_CRjWkG",
     "image_banner_mHjbxQ",
-    "image_banner_DdLJqD",
-    "image_banner_wXUXyV"
+    "image_banner_DdLJqD"
   ]
 }
