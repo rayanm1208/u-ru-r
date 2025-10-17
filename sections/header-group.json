@@ -93,6 +93,7 @@
       "block_order": [
         "sections--21450414096679__fe1c8c67-b84c-4466-a515-70df3134c1c0-announcement-1"
       ],
+      "disabled": true,
       "settings": {
         "columns_desktop": 0,
         "columns_mobile": 1,
@@ -110,9 +111,9 @@
         "displayed_products": "",
         "padding_top": 8,
         "padding_bottom": 8,
-        "custom_colors_background": "#000000",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#ffffff"
+        "custom_colors_text": "#000000"
       }
     },
     "header": {
