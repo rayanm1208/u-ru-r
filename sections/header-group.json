@@ -36,7 +36,6 @@
       "block_order": [
         "sections--21450414096679__fe1c8c67-b84c-4466-a515-70df3134c1c0-announcement-1"
       ],
-      "disabled": true,
       "settings": {
         "columns_desktop": 0,
         "columns_mobile": 1,
@@ -86,6 +85,7 @@
         "text_xfrwQP",
         "text_d47gdK"
       ],
+      "disabled": true,
       "name": "Horizontal Ticker",
       "settings": {
         "visibility": "always-display",
@@ -121,7 +121,7 @@
       "settings": {
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": true,
-        "color_scheme": "inverse",
+        "color_scheme": "accent-1",
         "logo_link": "",
         "logo_position": "middle-center",
         "menu": "main-menu",

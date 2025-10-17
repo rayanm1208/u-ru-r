@@ -15,8 +15,8 @@
         "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Banner_desktop.webp",
-            "mobile_image": "shopify://shop_images/Banner_mobile.webp",
+            "image": "shopify://shop_images/coore_5.png",
+            "mobile_image": "shopify://shop_images/Beige_Noir_Minimaliste_Moderne_Soins_de_Peau_Publication_Instagram_8.png",
             "image_overlay_opacity": 0,
             "heading": "",
             "title_highlight_color": "#6d388b",
@@ -64,57 +64,39 @@
       "blocks": {
         "image_z4Xajr": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/17_64c3bc50-adaf-4447-8849-f7cbcffe4d58.webp"
-          }
+          "settings": {}
         },
         "image_nifa7b": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/22_56244901-660d-446e-971b-f9db84d63060.webp"
-          }
+          "settings": {}
         },
         "image_VVUzQR": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/19_e16dca14-fc3b-486d-9841-00e3cf78bcfd.webp"
-          }
+          "settings": {}
         },
         "image_wdQxFk": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/20_b502f183-6ec7-4d72-aac9-016cc4773aa4.webp"
-          }
+          "settings": {}
         },
         "image_eCHa3R": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/GAMELAB_PRODUCT_IMG_7.webp"
-          }
+          "settings": {}
         },
         "image_dNrLkA": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/23_1920c520-4822-4f73-a032-805a209eceb0.webp"
-          }
+          "settings": {}
         },
         "image_VNfjgR": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/21_197b24c5-d40d-4b54-8b58-9f420ce9677e.webp"
-          }
+          "settings": {}
         },
         "image_x7Wait": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/18_f7090f5c-95f0-497b-ae41-880bc238bfbd.webp"
-          }
+          "settings": {}
         },
         "image_rzECG7": {
           "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/16_2bb19407-932a-475a-866a-937c37e4ee76.webp"
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -153,7 +135,7 @@
         "mobile_padding_bottom": 12,
         "desktop_padding_top": 16,
         "desktop_padding_bottom": 16,
-        "custom_colors_background": "#000000",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#ffffff"
       }
@@ -164,6 +146,7 @@
         "logo_HhRwm7": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/GQ-Logo.png",
             "link": "",
             "target_blank": false
           }
@@ -171,6 +154,7 @@
         "logo_cmAJrh": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/The_Guardian_2018_svg.png",
             "link": "",
             "target_blank": false
           }
@@ -178,6 +162,7 @@
         "logo_jBFfN8": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/NY24-ID176257-daily-mail-color-logo-dailymail-logoraster-250800.png",
             "link": "",
             "target_blank": false
           }
@@ -185,6 +170,7 @@
         "logo_GgF6WE": {
           "type": "logo",
           "settings": {
+            "image": "shopify://shop_images/Vogue-Logo.png",
             "link": "",
             "target_blank": false
           }
